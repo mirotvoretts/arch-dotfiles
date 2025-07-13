@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>CharityChain - Прозрачная благотворительность</title>
+		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+		/>
+		<link rel="stylesheet" href="css/common.css" />
+		<link rel="stylesheet" href="css/index.css" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Roboto:wght@300;400;500&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<header class="header">
+			<a href="#" class="logo">
+				<i class="fas fa-hands-helping logo-icon"></i>
+				<span>CharityChain</span>
+			</a>
+
+			<div class="header-links">
+				<a href="#how-to-donate">Как пожертвовать</a>
+				<a href="#about-platform">О платформе</a>
+				<a href="projects.html">Проекты</a>
+				<a href="#FAQ">FAQ</a>
+			</div>
+
+			<div class="header-buttons">
+				<button class="btn btn-add-project" id="addProject">
+					<i class="fas fa-plus"></i> Добавить проект
+				</button>
+				<button class="btn btn-theme" id="themeToggle">
+					<i class="fas fa-moon"></i>
+				</button>
+				<a href="profile.html" class="btn btn-login">
+					<i class="fas fa-user"></i> Войти
+				</a>
+			</div>
+
+			<button class="mobile-menu-btn" id="mobileMenuBtn">
+				<span></span>
+				<span></span>
+				<span></span>
+			</button>
+		</header>
+
+		<div class="mobile-menu" id="mobileMenu">
+			<a href="#how-to-donate">
+				<i class="fas fa-hand-holding-heart"></i> Как пожертвовать
+			</a>
+			<a href="#about-platform">
+				<i class="fas fa-info-circle"></i> О платформе
+			</a>
+			<a href="projects.html">
+				<i class="fas fa-project-diagram"></i> Проекты
+			</a>
+			<a href="#FAQ"> <i class="fas fa-question-circle"></i> FAQ </a>
+			<a href="profile.html" class="btn btn-login">
+				<i class="fas fa-user"></i> Войти
+			</a>
+			<button class="btn btn-theme" id="mobileThemeToggle">
+				<i class="fas fa-moon"></i>
+			</button>
+		</div>
+
+		<main>
+			<section class="hero" id="main-banner">
+				<h1>CharityChain: Не бойтесь творить добро!</h1>
+				<h2>Прозрачная система пожертвований на основе web-3 технологий</h2>
+
+				<div class="hero-buttons">
+					<button
+						class="btn-hero btn-hero-primary"
+						onclick="location.href='projects.html'"
+					>
+						<i class="fas fa-search"></i> Найти проект
+					</button>
+					<button
+						class="btn-hero"
+						onclick="document.getElementById('about-platform').scrollIntoView({behavior: 'smooth'})"
+					>
+						<i class="fas fa-info-circle"></i> Узнать больше
+					</button>
+				</div>
+			</section>
+
+			<!-- О платформе -->
+			<section class="about-platform" id="about-platform">
+				<div class="container">
+					<h2 class="section-title">О ПЛАТФОРМЕ</h2>
+					<p class="section-subtitle">
+						Используем передовые технологии для обеспечения прозрачности и
+						доверия
+					</p>
+
+					<div class="features-container">
+						<div class="feature-box fade-in">
+							<i class="fas fa-link feature-icon"></i>
+							<h3 class="feature-title">Децентрализованный протокол</h3>
+							<p class="feature-text">
+								Каждая операция фиксируется в распределённой сети блокчейн,
+								обеспечивая невозможность изменения данных задним числом.
+							</p>
+						</div>
+
+						<div class="feature-box fade-in">
+							<i class="fas fa-eye feature-icon"></i>
+							<h3 class="feature-title">Полная прозрачность</h3>
+							<p class="feature-text">
+								Гарантируем честность и открытость процесса пожертвований.
+								Каждый может проверить движение средств. Благодаря этому
+								благотворители и нуждающиеся в помощи могут доверять друг другу.
+							</p>
+						</div>
+
+						<div class="feature-box fade-in">
+							<i class="fas fa-handshake feature-icon"></i>
+							<h3 class="feature-title">Простота и удобство</h3>
+							<p class="feature-text">
+								Больше не нужно заполнять миллионы форм. Подключайте кошелек
+								Metamask и делайте пожертвования за пару кликов!
+							</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="instructions" id="how-to-donate">
+				<div class="container">
+					<h2 class="section-title">КАК МНЕ СДЕЛАТЬ ПОЖЕРТВОВАНИЕ?</h2>
+					<p class="section-subtitle">Не волнуйтесь. Все очень просто.</p>
+
+					<div class="steps-container">
+						<div class="step fade-in">
+							<div class="step-number">1</div>
+							<h3>Выберите проект</h3>
+							<p>
+								Изучите список <a href="projects.html">проектов</a>, используя
+								фильтры или поиск, чтобы найти откликающийся Вам. Подробнее о
+								каждой инициативе и ее организаторе Вы сможете узнать на
+								страничке проекта.
+							</p>
+						</div>
+
+						<div class="step fade-in">
+							<div class="step-number">2</div>
+							<h3>Поддержите проект финансово</h3>
+							<p>
+								Нажмите "Поддержать", выберите сумму и способ оплаты.
+								Пожертвование сразу же поступит фонду, а технология блокчейн
+								надежно зафиксирует факт Вашего участия в истории проекта.
+							</p>
+						</div>
+
+						<div class="step fade-in">
+							<div class="step-number">3</div>
+							<h3>Проверьте свой вклад</h3>
+							<p>
+								Воспользуйтесь опцией "Посмотреть в Blockchain", чтобы лично
+								отслеживать транзакции, видеть общую собранную сумму и детали
+								взносов. Блокчейн обеспечивает абсолютную прозрачность и защиту
+								данных от изменений.
+							</p>
+						</div>
+
+						<div class="step fade-in">
+							<div class="step-number">4</div>
+							<h3>Подключите регулярную помощь</h3>
+							<p>
+								Авторизуйтесь для доступа к истории Ваших поддержек, подписки на
+								обновления и получение кэшбека для голосований. Настройте
+								автоплатежи для постоянной помощи любимым проектам. Ваше имя
+								будет в списке их благотворителей.
+							</p>
+						</div>
+
+						<div class="step fade-in">
+							<div class="step-number">5</div>
+							<h3>Голосуйте и продвигайте любимые проекты в топ</h3>
+							<p>
+								Проект, которому вы жертвовали, пришлет вам отчет, когда
+								достигнет цели. Используйте заработанные токены, чтобы
+								голосовать за него и продвинуть его в топе, чтобы больше людей
+								обратило на него внимание!
+							</p>
+						</div>
+					</div>
+				</div>
+			</section>
+
+			<section class="faq-section" id="FAQ">
+				<div class="container">
+					<h2 class="FAQ-title">ЧАСТЫЕ ВОПРОСЫ</h2>
+
+					<div class="faq-container">
+						<div class="faq-item">
+							<div class="faq-question">
+								<span
+									>Как я могу быть уверен, что мои деньги дойдут до
+									нуждающихся?</span
+								>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Наша платформа использует технологию блокчейн, которая
+									обеспечивает полную прозрачность всех транзакций. Вы можете
+									отслеживать движение ваших средств в реальном времени через
+									публичный реестр.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Какие комиссии взимаются с пожертвований?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Мы взимаем минимальную комиссию в размере 10% для покрытия
+									операционных расходов платформы. Остальные 90% идут
+									непосредственно на поддержку выбранного вами проекта.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Что такое токены и как они работают?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									За пожертвования Вы сможете получать токены: виртуальную
+									валюту платформы для голосований за проекты.
+								</p>
+								<p>
+									Когда проект достигнет своей цели, он пришлет своим
+									благотворителям отчет. Если Вас устроит то, как фонд
+									воспользовался полученными средствами, Вы можете отдать
+									проекту часть заработанных Вами токенов. Это поможет проекту
+									продвинуться в топ и привлечь к себе внимание большего
+									количества людей.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Могу ли я перевести токены в реальную валюту?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Токены - внутренняя валюта платформы, и использовать ее можно
+									только для голосований за проект.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Как часто обновляется информация о проектах?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Информация о сборе средств обновляется в реальном времени.
+									Отчёты о реализации проектов публикуются ежемесячно, а также
+									по достижении ключевых этапов.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Как мне добавить свой проект?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Если Вы старше 18 лет и имеете действующий
+									социально-ориентированный проект, заполните заявку. Наши
+									модераторы рассмотрят ее и вышлют результат решения Вам на
+									почту.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span>Могу ли я отменить пожертвование?</span>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									В связи с особенностями технологии блокчейн, пожертвования не
+									могут быть отменены после подтверждения транзакции.
+									Пожалуйста, внимательно проверяйте детали перед отправкой
+									средств.
+								</p>
+							</div>
+						</div>
+
+						<div class="faq-item">
+							<div class="faq-question">
+								<span
+									>Что делать, если я отправил пожертвование, а среди транзакций
+									проекта его нет?</span
+								>
+								<i class="fas fa-chevron-down"></i>
+							</div>
+							<div class="faq-answer">
+								<p>
+									Если операция по каким-либо внутренним причинам не удалась,
+									средства вернутся в течение часа. По всем вопросам пишите в
+									техническую поддержку.
+								</p>
+							</div>
+						</div>
+					</div>
+
+					<div class="ask-question">
+						<h4>
+							Не нашли ответ на то, что искали? Напишите нашему ассистенту!
+						</h4>
+						<button class="btn-ask" id="askQuestionBtn">Задать вопрос</button>
+					</div>
+				</div>
+			</section>
+		</main>
+
+		<section
+			style="
+				background: white;
+				padding: 80px 20px;
+				font-family: 'Montserrat', sans-serif;
+			"
+		>
+			<div style="max-width: 1200px; margin: 0 auto; text-align: center">
+				<h2
+					style="
+						color: #298781;
+						font-size: 32px;
+						margin-bottom: 40px;
+						text-transform: uppercase;
+						letter-spacing: 1px;
+					"
+				>
+					НОВОСТИ ПЛАТФОРМЫ
+				</h2>
+
+				<div
+					style="
+						background: #f9f9f9;
+						border-radius: 20px;
+						padding: 40px;
+						box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+						max-width: 900px;
+						margin: 0 auto;
+						text-align: left;
+					"
+				>
+					<div
+						style="
+							font-size: 14px;
+							font-weight: 600;
+							color: #5e2b6d;
+							margin-bottom: 15px;
+						"
+					>
+						15 ИЮЛЯ 2025
+					</div>
+
+					<h3 style="font-size: 28px; margin: 0 0 20px; color: #333">
+						🚀 Официальный запуск CharityChain!
+					</h3>
+
+					<p
+						style="
+							font-size: 16px;
+							line-height: 1.6;
+							margin-bottom: 25px;
+							color: #555;
+						"
+					>
+						Мы рады сообщить о запуске нашей инновационной платформы для
+						прозрачной благотворительности на блокчейне. Теперь каждый может
+						быть уверен в том, что его пожертвования достигают нуждающихся.
+					</p>
+
+					<div
+						style="
+							background: white;
+							padding: 20px;
+							border-radius: 12px;
+							margin: 30px 0;
+						"
+					>
+						<div
+							style="
+								display: flex;
+								gap: 15px;
+								margin-bottom: 10px;
+								align-items: center;
+							"
+						>
+							<div
+								style="
+									width: 24px;
+									height: 24px;
+									background: #298781;
+									border-radius: 50%;
+									display: flex;
+									align-items: center;
+									justify-content: center;
+									color: white;
+									font-size: 12px;
+								"
+							>
+								✓
+							</div>
+							<span>Все транзакции записываются в блокчейн</span>
+						</div>
+
+						<div
+							style="
+								display: flex;
+								gap: 15px;
+								margin-bottom: 10px;
+								align-items: center;
+							"
+						>
+							<div
+								style="
+									width: 24px;
+									height: 24px;
+									background: #298781;
+									border-radius: 50%;
+									display: flex;
+									align-items: center;
+									justify-content: center;
+									color: white;
+									font-size: 12px;
+								"
+							>
+								✓
+							</div>
+							<span>Полная история всех переводов</span>
+						</div>
+
+						<div style="display: flex; gap: 15px; align-items: center">
+							<div
+								style="
+									width: 24px;
+									height: 24px;
+									background: #298781;
+									border-radius: 50%;
+									display: flex;
+									align-items: center;
+									justify-content: center;
+									color: white;
+									font-size: 12px;
+								"
+							>
+								✓
+							</div>
+							<span>Нулевые комиссии для благотворителей</span>
+						</div>
+					</div>
+
+					<div style="display: flex; gap: 15px; flex-wrap: wrap">
+						<a
+							href="projects.html"
+							style="
+								background: #298781;
+								color: white;
+								padding: 12px 25px;
+								border-radius: 50px;
+								text-decoration: none;
+								font-weight: 600;
+								font-size: 14px;
+								transition: all 0.3s ease;
+							"
+						>
+							Перейти к проектам
+						</a>
+
+						<a
+							href="about.html"
+							style="
+								background: white;
+								color: #298781;
+								padding: 12px 25px;
+								border-radius: 50px;
+								text-decoration: none;
+								font-weight: 600;
+								font-size: 14px;
+								transition: all 0.3s ease;
+								border: 2px solid #298781;
+							"
+						>
+							Узнать больше
+						</a>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<footer class="footer">
+			<div class="footer-content">
+				<div class="footer-section">
+					<h3 class="footer-title">
+						<i class="fas fa-hands-helping"></i> CharityChain
+					</h3>
+					<p>
+						Платформа для прозрачной благотворительности на основе
+						блокчейн-технологий. Обеспечиваем доверие доноров и получателей
+						помощи.
+					</p>
+				</div>
+				<div class="footer-section">
+					<h3 class="footer-title">Навигация</h3>
+					<ul class="footer-links">
+						<li>
+							<a href="index.html"
+								><i class="fas fa-chevron-right"></i> Главная</a
+							>
+						</li>
+						<li>
+							<a href="projects.html"
+								><i class="fas fa-chevron-right"></i> Проекты</a
+							>
+						</li>
+					</ul>
+				</div>
+				<div class="footer-section">
+					<h3 class="footer-title">Контакты</h3>
+					<ul class="footer-links">
+						<li>
+							<a href="mailto:info@charitychain.org"
+								><i class="fas fa-envelope"></i> info@charitychain.org</a
+							>
+						</li>
+						<li>
+							<a href="tel:+79991234567"
+								><i class="fas fa-phone"></i> +7 (999) 123-45-67</a
+							>
+						</li>
+						<li>
+							<a href="#"
+								><i class="fas fa-map-marker-alt"></i> Москва, ул. Добрая, 1</a
+							>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="copyright">&copy; 2025 CharityChain. Все права защищены.</div>
+		</footer>
+
+		<div class="modal" id="projectModal">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h3 class="modal-title">Добавить проект</h3>
+					<span class="close-modal" id="closeProjectModal">&times;</span>
+				</div>
+				<div class="modal-body">
+					<form id="projectForm">
+						<div class="form-group">
+							<label for="contactName">ФИО или название фонда*</label>
+							<input
+								type="text"
+								id="contactName"
+								class="form-control"
+								required
+							/>
+						</div>
+						<div class="form-group">
+							<label for="projectEmail">Email*</label>
+							<input
+								type="email"
+								id="projectEmail"
+								class="form-control"
+								required
+							/>
+						</div>
+						<div class="form-group">
+							<label for="projectPhone">Телефон*</label>
+							<input
+								type="tel"
+								id="projectPhone"
+								class="form-control"
+								required
+							/>
+						</div>
+						<div class="form-group">
+							<label for="projectName">Название проекта*</label>
+							<input
+								type="text"
+								id="projectName"
+								class="form-control"
+								required
+							/>
+						</div>
+						<div class="form-group">
+							<label for="projectLink">Ссылка на проект (если есть)</label>
+							<input type="url" id="projectLink" class="form-control" />
+						</div>
+						<div class="form-group">
+							<label for="projectDescription">Краткое описание проекта*</label>
+							<textarea
+								id="projectDescription"
+								class="form-control"
+								rows="4"
+								required
+							></textarea>
+						</div>
+						<button
+							type="submit"
+							class="btn-submit"
+							id="submitProjectBtn"
+							disabled
+						>
+							Отправить заявку
+						</button>
+					</form>
+				</div>
+			</div>
+		</div>
+
+		<script type="module" src="js/index.js"></script>
+	</body>
+</html>

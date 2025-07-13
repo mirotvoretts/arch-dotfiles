@@ -1,0 +1,96 @@
+2025-07-07 10:50:33.852 [info] Extension host with pid 4089 started
+2025-07-07 10:50:33.852 [info] Skipping acquiring lock for /home/user/.config/Code - OSS/User/workspaceStorage/fcaab3c62323601372de9f26357e93d9.
+2025-07-07 10:50:33.985 [info] ExtensionService#_doActivateExtension AckeeBlockchain.tools-for-solidity, startup: false, activationEvent: 'onView:sake-output'
+2025-07-07 10:50:34.217 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-07 10:50:34.348 [error] CodeExpectedError: Unable to write to User Settings because python.venvFolders is not a registered configuration.
+    at Cpt.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:6793)
+    at Cpt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:9281)
+    at Cpt.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3874)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3774)
+    at iC.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75271)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75183
+    at new Promise (<anonymous>)
+    at iC.queue (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75125)
+    at Cpt.writeConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3743)
+    at RXs.Hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:42634)
+2025-07-07 10:50:34.350 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:34.357 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:34.399 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:34.925 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-07 10:50:34.927 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-07-07 10:50:34.936 [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+2025-07-07 10:50:34.945 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-07-07 10:50:34.998 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-07 10:50:35.032 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-07 10:50:35.067 [info] ExtensionService#_doActivateExtension NomicFoundation.hardhat-solidity, startup: true, activationEvent: 'workspaceContains:**/hardhat.config.{ts,js},**/foundry.toml,**/truffle-config.js,**/ape-config.yaml'
+2025-07-07 10:50:37.534 [info] Eager extensions activated
+2025-07-07 10:50:37.536 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.537 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.550 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.553 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.578 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.628 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:37.639 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:42.654 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-07 10:50:42.674 [info] ExtensionService#_doActivateExtension tintinweb.vscode-ethover, startup: false, activationEvent: 'onLanguage:json'
+2025-07-07 10:50:46.165 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-07 10:50:46.362 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+	at R.logOutputMessage (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-07 10:50:47.329 [info] Extension host with pid 4089 exiting with code 0
+2025-07-07 10:50:47.750 [info] Extension host with pid 4468 started
+2025-07-07 10:50:47.750 [info] Skipping acquiring lock for /home/user/.config/Code - OSS/User/workspaceStorage/f17fd247989cbc1376eb4a21d8644854.
+2025-07-07 10:50:47.825 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:47.834 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:47.874 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-07 10:50:47.910 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-07 10:50:48.070 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-07-07 10:50:48.072 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-07-07 10:50:48.077 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2025-07-07 10:50:48.104 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-07 10:50:48.136 [info] Eager extensions activated
+2025-07-07 10:50:48.139 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:48.140 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:48.153 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:48.202 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:49.749 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-07-07 10:50:49.810 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:49.813 [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: false, activationEvent: '*'
+2025-07-07 10:50:49.818 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:49.841 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-07-07 10:50:49.892 [info] ExtensionService#_doActivateExtension NomicFoundation.hardhat-solidity, startup: false, activationEvent: 'workspaceContains:**/hardhat.config.{ts,js},**/foundry.toml,**/truffle-config.js,**/ape-config.yaml'
+2025-07-07 10:50:49.924 [info] ExtensionService#_doActivateExtension AckeeBlockchain.tools-for-solidity, startup: false, activationEvent: 'workspaceContains:**/*.sol'
+2025-07-07 10:50:50.211 [error] CodeExpectedError: Unable to write to User Settings because python.venvFolders is not a registered configuration.
+    at Cpt.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:6793)
+    at Cpt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:9281)
+    at Cpt.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3874)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3774)
+    at iC.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75271)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75183
+    at new Promise (<anonymous>)
+    at iC.queue (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75125)
+    at Cpt.writeConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3743)
+    at RXs.Hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:42634)
+2025-07-07 10:50:56.833 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-07-07 10:50:56.848 [info] ExtensionService#_doActivateExtension tintinweb.vscode-ethover, startup: false, activationEvent: 'onLanguage:json'
+2025-07-07 10:53:54.880 [info] ExtensionService#_doActivateExtension IARD-Solutions.iards-solidity-analyzer, startup: false, activationEvent: 'onLanguage:solidity'
+2025-07-07 10:57:26.187 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-07 11:20:38.852 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-07 11:20:39.367 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-07-07 22:23:15.004 [info] Extension host terminating: renderer closed the MessagePort
+2025-07-07 22:23:15.072 [error] Error: Channel has been closed
+	at s (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+	at Object.appendLine (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+	at R.logOutputMessage (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-07-07 22:23:16.063 [info] Extension host with pid 4468 exiting with code 0

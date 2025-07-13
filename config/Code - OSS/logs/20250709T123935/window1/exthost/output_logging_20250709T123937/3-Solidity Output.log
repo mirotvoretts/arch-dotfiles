@@ -1,0 +1,17 @@
+Running 'unset PYTHONPATH && unset PYTHONHOME && unset PYTHONSTARTUP && export PYTHONNOUSERSITE=1 && . "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/bin/activate" && wake lsp --port 46583'
+[Error - 7:22:40 PM] Traceback (most recent call last):
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/server.py", line 495, in _task_done_callback
+    task.result()
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/server.py", line 751, in _handle_message
+    response = await self._serve_response(request)
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/server.py", line 801, in _serve_response
+    response = await m(params_type.model_validate(request.params))
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/server.py", line 1462, in _workspace_route
+    return await inlay_hint(context, params)
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/features/inlay_hint.py", line 122, in inlay_hint
+    end = context.compiler.get_early_byte_offset_from_line_pos(
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/lsp_compiler.py", line 1116, in get_early_byte_offset_from_line_pos
+    line_bytes, prefix = encoded_lines[line]
+IndexError: list index out of range
+
+[Info  - 7:22:41 PM] Connection to server got closed. Server will restart.

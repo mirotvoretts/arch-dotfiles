@@ -1,0 +1,107 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "af8a5165404fb44cb4d97d78aa195302fd647f7a3ee120380b25d31a50911042",
+    "telemetry.devDeviceId": "5b6d6e00-ccfa-490a-872c-a4c01545d599",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/user/git/temp/blockchain-hackathon"
+            },
+            {
+                "folderUri": "file:///home/user/git/blockchain-hackathon"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/user/Downloads": "__default__profile__",
+            "file:///home/user/git/evercodelab": "__default__profile__",
+            "file:///home/user/git/my_nft_collection": "__default__profile__",
+            "file:///home/user/git/efficio_server_copy": "__default__profile__",
+            "file:///home/user/git/js": "__default__profile__",
+            "file:///home/user/git/blockchain-hackathon": "__default__profile__",
+            "file:///home/user/git/js/test": "__default__profile__",
+            "file:///home/user/git/temp/blockchain-hackathon": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1e212b",
+    "windowSplash": {
+        "zoomLevel": 1,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#b2b8c9",
+            "background": "#1e212b",
+            "editorBackground": "#1e212b",
+            "titleBarBackground": "#13151b",
+            "titleBarBorder": "#111319",
+            "activityBarBackground": "#191c24",
+            "activityBarBorder": "#111319",
+            "sideBarBackground": "#191c24",
+            "sideBarBorder": "#111319",
+            "statusBarBackground": "#1e212b",
+            "statusBarBorder": "#111319",
+            "statusBarNoFolderBackground": "#191c24"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 183,
+            "auxiliarySideBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/user/git/temp/blockchain-hackathon",
+            "backupPath": "/home/user/.config/Code - OSS/Backups/2bd133b8a41ef000330a02f7f8a037a8",
+            "uiState": {
+                "mode": 1,
+                "x": 14,
+                "y": 68,
+                "width": 1044,
+                "height": 1251
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 183,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "ac4ec37c65c7152583dc4163d7906d6e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "20a29548920c51f8d7717bb9659cf0cc": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "fcaab3c62323601372de9f26357e93d9": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "f17fd247989cbc1376eb4a21d8644854": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "5fcbbaa04c792a0b67c95590b332eb39": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "7ef89621c3d9ffdb062e1c117b160e3b": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

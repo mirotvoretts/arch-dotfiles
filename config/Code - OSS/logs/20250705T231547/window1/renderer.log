@@ -1,0 +1,26 @@
+2025-07-05 23:15:48.995 [info] Started local extension host with pid 19379.
+2025-07-05 23:15:49.031 [info] ComputeTargetPlatform: linux-x64
+2025-07-05 23:15:49.411 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-05 23:15:51.836 [info] [perf] Render performance baseline is 30ms
+2025-07-05 23:15:52.464 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-05 23:15:56.858 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-05 23:15:57.974 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-05 23:16:01.864 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 01:33:55.900 [info] Started local extension host with pid 27999.
+2025-07-06 01:33:56.040 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 01:33:56.174 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-07-06 01:33:57.991 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-06 01:33:58.758 [info] [perf] Render performance baseline is 26ms
+2025-07-06 01:33:59.471 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 01:34:04.467 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 01:34:09.151 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

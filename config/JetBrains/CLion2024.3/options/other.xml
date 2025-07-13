@@ -1,0 +1,121 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="ObjectiveC" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="20.0" />
+    <option name="ideScale" value="1.25" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;FindSplitterProportion&quot;: &quot;0.33970276&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;3&quot;,
+    &quot;Markdown Split EditorLayout&quot;: &quot;Editor only&quot;,
+    &quot;MarketplacePluginsSearchHistory&quot;: &quot;qt&quot;,
+    &quot;NewProjectWizard.generateOnboardingTips&quot;: &quot;true&quot;,
+    &quot;NextRunPlatformUpdateBuild&quot;: &quot;CL-243.26574.92&quot;,
+    &quot;NextRunPlatformUpdateSelfBuild&quot;: &quot;CL-243.26053.34&quot;,
+    &quot;NextRunPlatformUpdateVersion&quot;: &quot;2024.3.6&quot;,
+    &quot;Rad.Init.Cfg.1&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.VFSInitializationConditionsToFusReporter&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.test.framework.showIndexingAsTask&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.test.roots.only&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.llm.installer.activate.toolwindow&quot;: &quot;true&quot;,
+    &quot;SHELLCHECK.PATH&quot;: &quot;/home/user/.local/share/JetBrains/CLion2024.3/Shell Script/shellcheck&quot;,
+    &quot;SettingsSearchHistory&quot;: &quot;terminal\nmarkdown\nsize\nfont&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;clion.initialConfigPerformed&quot;: &quot;true&quot;,
+    &quot;enter_selection_count&quot;: &quot;5&quot;,
+    &quot;evaluation.feedback.enabled&quot;: &quot;false&quot;,
+    &quot;evlsprt3.243&quot;: &quot;5&quot;,
+    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;243.26053.34&quot;,
+    &quot;file.gist.reindex.count&quot;: &quot;2&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;8&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;19.5&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;19.5&quot;,
+    &quot;got.it.tooltip.new.terminal.promotion.243&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.settings.sync.in.settings&quot;: &quot;1&quot;,
+    &quot;got.it.tooltip.speed.search.shown&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;CL-243.26053.34&quot;,
+    &quot;ignore.ide.script.launcher.used&quot;: &quot;true&quot;,
+    &quot;input.method.disabler.muted&quot;: &quot;true&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;LLM_INSTALLER&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;onboarding.generation.number&quot;: &quot;2&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;CL-243.26053.34&quot;,
+    &quot;settings.code.style.selected.tab.C++&quot;: &quot;Tabs and Indents&quot;,
+    &quot;settings.code.style.selected.tab.Markdown&quot;: &quot;Wrapping and Braces&quot;,
+    &quot;ts.lib.d.ts.version&quot;: &quot;5.6.3&quot;,
+    &quot;whats.new.last.shown.version&quot;: &quot;2024-3.5-26053-ddd3c5bc9440967cd24c0d0babd50eaeae790e51&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;file.chooser.recent.files&quot;: [
+      &quot;/home/user/git/yadro_test_task&quot;,
+      &quot;/home/user/git/labs-mirotvoretts/lab10-calc/solution&quot;,
+      &quot;/home/user/git/labs-mirotvoretts/lab10-calc&quot;,
+      &quot;/home/user/git/labs-mirotvoretts/lab09-bmp&quot;,
+      &quot;/home/user/git/labs-mirotvoretts/lab09-bmp/solution&quot;,
+      &quot;/home/user/git/exercises&quot;,
+      &quot;/home/user/git/efficio-task-tracker&quot;
+    ],
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.docker.dockerFile.DockerFileTypeDetector&quot;,
+      &quot;com.jetbrains.rider.cpp.fileType.CppHeaderFileTypeDetector&quot;,
+      &quot;com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector&quot;,
+      &quot;com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "find_usages": 1749766197480,
+    "QuickDefinition": 1750513680239,
+    "CtrlW": 1751916222809,
+    "SpeedSearch": 1746350239985,
+    "FocusProjectToolWindow": 1751484160581,
+    "QuickJavaDoc": 1749210619232,
+    "SearchEverywhere": 1744493868716,
+    "GoToDeclaration": 1744658041236,
+    "VCS_general": 1751188040686,
+    "QuickSwitchScheme": 1751233472682,
+    "CommentCode": 1744708172346,
+    "Generate": 1750545765430,
+    "FindReplaceToggle": 1745668629073,
+    "SelectIn": 1749853054019,
+    "CompleteStatement": 1751137273650,
+    "FindInPath": 1752058142167,
+    "IntroduceVariable": 1749975674284
+  },
+  "proposedTips": {
+    "find_usages": 1749766197369,
+    "QuickDefinition": 1750513680147,
+    "CtrlW": 1751916222625,
+    "SpeedSearch": 1746350239874,
+    "FocusProjectToolWindow": 1751484160479,
+    "QuickJavaDoc": 1749210619153,
+    "SearchEverywhere": 1744493868526,
+    "GoToDeclaration": 1744658041077,
+    "VCS_general": 1751188040585,
+    "QuickSwitchScheme": 1751233472564,
+    "CommentCode": 1744708172183,
+    "Generate": 1750545765328,
+    "FindReplaceToggle": 1745668628969,
+    "SelectIn": 1749853053775,
+    "CompleteStatement": 1751137273546,
+    "FindInPath": 1752058142053,
+    "IntroduceVariable": 1749975674106
+  },
+  "tipsOrderSeed": 1744312411085
+}]]></component>
+</application>

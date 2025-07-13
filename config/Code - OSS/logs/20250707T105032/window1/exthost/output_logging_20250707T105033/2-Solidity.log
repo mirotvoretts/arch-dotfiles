@@ -1,0 +1,24 @@
+[Info  - 10:50:35 AM] Solidity by Nomic Foundation Starting ...
+[Info  - 10:50:35 AM] env: production
+[Info  - 10:50:35 AM] Client starting
+[Info  - 10:50:36 AM] Language server starting
+[Info  - 10:50:36 AM]   Release: hardhat-solidity@0.8.18
+[Info  - 10:50:36 AM]   Environment: production
+[Info  - 10:50:36 AM]   Telemetry Enabled: false
+[Info  - 10:50:36 AM]   Telemetry Tracking Id: someValue....
+[Info  - 10:50:36 AM]   Workspace Folders:
+[Info  - 10:50:36 AM]     js (file:///home/user/git/js)
+[Info  - 10:50:36 AM] Fetching latest solidity versions
+[Info  - 10:50:36 AM] Language server ready
+[Info  - 10:50:36 AM] [indexing] Found projects:
+[Info  - 10:50:36 AM] [indexing] -  Type: Hardhat
+[Info  - 10:50:36 AM] [indexing]    Base path: /home/user/git/js
+[Info  - 10:50:36 AM] [indexing]    Config file: /home/user/git/js/hardhat.config.js
+[Info  - 10:50:36 AM] [indexing] Initializing /home/user/git/js/hardhat.config.js
+[dotenv@17.0.1] injecting env (2) from .env – [tip] encrypt with dotenvx: https://dotenvx.com
+[Info  - 10:50:37 AM] [js] Local HRE loaded
+[Info  - 10:50:37 AM] [indexing] Done /home/user/git/js/hardhat.config.js
+[Info  - 10:50:37 AM] [indexing] Scanning workspace folders for sol files
+[Info  - 10:50:37 AM] [indexing] Scan complete, 7 sol files found
+[Info  - 10:50:37 AM] [indexing] Analyzing 1 solidity files
+[Error - 10:50:46 AM] Server process exited with code 0.

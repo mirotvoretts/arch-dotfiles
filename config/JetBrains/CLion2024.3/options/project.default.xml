@@ -1,0 +1,18 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="926" y="743" key="SettingsEditor.ideScale=125" timestamp="1744287075571">
+          <screen x="0" y="0" width="3200" height="2000" />
+        </state>
+        <state x="926" y="743" key="SettingsEditor.ideScale=125/0.0.3200.2000" timestamp="1744287075571" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

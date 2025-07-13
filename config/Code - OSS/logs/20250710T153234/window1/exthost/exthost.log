@@ -1,0 +1,108 @@
+2025-07-10 15:32:36.041 [info] Extension host with pid 2692 started
+2025-07-10 15:32:36.041 [info] Skipping acquiring lock for /home/user/.config/Code - OSS/User/workspaceStorage/7ef89621c3d9ffdb062e1c117b160e3b.
+2025-07-10 15:32:36.335 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-07-10 15:32:36.352 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-07-10 15:32:36.987 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-07-10 15:32:36.989 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2025-07-10 15:32:37.005 [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer, startup: true, activationEvent: '*'
+2025-07-10 15:32:37.065 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-07-10 15:32:37.108 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-07-10 15:32:37.186 [info] ExtensionService#_doActivateExtension AckeeBlockchain.tools-for-solidity, startup: true, activationEvent: 'workspaceContains:**/*.sol'
+2025-07-10 15:32:37.661 [error] CodeExpectedError: Unable to write to User Settings because python.venvFolders is not a registered configuration.
+    at Cpt.z (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:6793)
+    at Cpt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:9281)
+    at Cpt.o (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3874)
+    at Object.factory (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3774)
+    at iC.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75271)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75183
+    at new Promise (<anonymous>)
+    at iC.queue (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:30:75125)
+    at Cpt.writeConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:3743)
+    at RXs.Hb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:42634)
+2025-07-10 15:32:37.686 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-10 15:32:37.695 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-10 15:32:37.760 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-07-10 15:32:38.350 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-07-10 15:32:39.781 [info] Eager extensions activated
+2025-07-10 15:32:39.794 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.795 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.808 [info] ExtensionService#_doActivateExtension aaron-bond.better-comments, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.813 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.836 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.894 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:32:39.907 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2025-07-10 15:34:32.632 [info] ExtensionService#_doActivateExtension IARD-Solutions.iards-solidity-analyzer, startup: false, activationEvent: 'onLanguage:solidity'
+2025-07-10 15:34:32.642 [info] ExtensionService#_doActivateExtension NomicFoundation.hardhat-solidity, startup: false, activationEvent: 'onLanguage:solidity'
+2025-07-10 15:34:32.688 [info] ExtensionService#_doActivateExtension tintinweb.vscode-ethover, startup: false, activationEvent: 'onLanguage:solidity'
+2025-07-10 16:20:26.484 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2025-07-10 16:45:57.714 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-10 16:45:57.726 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-07-10 16:45:58.091 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2025-07-10 16:46:56.070 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2025-07-10 17:54:45.122 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2025-07-10 23:51:11.262 [error] [vscode.typescript-language-features] provider FAILED
+2025-07-10 23:51:11.299 [error] Error: <semantic> TypeScript Server Error (5.8.3)
+Debug Failure. False expression: Expected symbol to be a module
+Error: Debug Failure. False expression: Expected symbol to be a module
+    at Object.addImportForModuleSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:157416:11)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:147140:19
+    at Map.forEach (<anonymous>)
+    at addTargetFileImports (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:147133:17)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182051:7
+    at InferredProject2.runWithTemporaryFileUpdate (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:187575:7)
+    at pasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182031:55)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182016:118
+    at _ChangeTracker.with (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:178070:5)
+    at Object.pasteEditsProvider (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182016:60)
+    at Object.getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:152265:34)
+    at IpcIOSession.getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195298:49)
+    at getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:193419:43)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195676:15
+    at IpcIOSession.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195665:14)
+    at IpcIOSession.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195674:29)
+    at IpcIOSession.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195722:68)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:496515)
+	at y.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:490107)
+	at y.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:488548)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:488041)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:950:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2025-07-11 01:05:37.840 [error] [vscode.typescript-language-features] provider FAILED
+2025-07-11 01:05:37.841 [error] Error: <semantic> TypeScript Server Error (5.8.3)
+Debug Failure. False expression: Expected symbol to be a module
+Error: Debug Failure. False expression: Expected symbol to be a module
+    at Object.addImportForModuleSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:157416:11)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:147140:19
+    at Map.forEach (<anonymous>)
+    at addTargetFileImports (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:147133:17)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182051:7
+    at InferredProject2.runWithTemporaryFileUpdate (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:187575:7)
+    at pasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182031:55)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182016:118
+    at _ChangeTracker.with (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:178070:5)
+    at Object.pasteEditsProvider (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:182016:60)
+    at Object.getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:152265:34)
+    at IpcIOSession.getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195298:49)
+    at getPasteEdits (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:193419:43)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195676:15
+    at IpcIOSession.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195665:14)
+    at IpcIOSession.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195674:29)
+    at IpcIOSession.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/typescript.js:195722:68)
+    at process.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/_tsserver.js:519:14)
+    at process.emit (node:events:524:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+	at n.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:496515)
+	at y.dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:490107)
+	at y.dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:488548)
+	at ChildProcess.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:2:488041)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess.emit (node:domain:489:12)
+	at emit (node:internal/child_process:950:14)
+	at process.processTicksAndRejections (node:internal/process/task_queues:83:21)

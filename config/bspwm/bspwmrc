@@ -1,6 +1,5 @@
 #! /bin/sh
 
-
 pgrep -x sxhkd > /dev/null || sxhkd &
 
 # fix some Java applications
@@ -59,4 +58,11 @@ picom --config $HOME/.config/bspwm/picom_configurations/1.conf &
 
 # autostart
 flameshot &
+libinput-gestures &
 
+xset r rate 175 30
+setxkbmap -layout us,ru -variant , -option grp:alt_shift_toggle
+export GTK_IM_MODULE=ibus
+export QT_IM_MODULE=ibus
+export XMODIFIERS=@im=ibus
+ibus-daemon -drx

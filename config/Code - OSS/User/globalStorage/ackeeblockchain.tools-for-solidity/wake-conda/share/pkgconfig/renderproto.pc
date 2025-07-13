@@ -1,0 +1,7 @@
+prefix=/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda
+includedir=${prefix}/include
+
+Name: RenderProto
+Description: Render extension headers
+Version: 0.11.1
+Cflags: -I${includedir}

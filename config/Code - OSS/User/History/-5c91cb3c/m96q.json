@@ -1,0 +1,16 @@
+{
+    "workbench.colorTheme": "Catppuccin Macchiato",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontSize": 18,
+    "scm.inputFontSize": 18,
+    "screencastMode.fontSize": 60,
+    "debug.console.fontSize": 118,
+    "chat.editor.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "solidity.telemetry": true,
+    "workbench.iconTheme": "catppuccin-macchiato",
+    "window.zoomLevel": 1,
+    "workbench.productIconTheme": "fluent-icons",
+    "symbols.hidesExplorerArrows": false
+}

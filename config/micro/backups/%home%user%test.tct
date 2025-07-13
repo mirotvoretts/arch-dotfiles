@@ -1,0 +1,29 @@
+//SPDX-License-Identifier: MIT
+pragma solidity ^0.8.28;
+
+contract Election {
+    string[] public electors;
+
+    mapping(address => bool) public isVoted;
+    mapping(uint256 => uint256) public votesNumber;
+
+    uint256 public maxVotes;
+    uint256 public electionTime;
+
+    constructor(
+        string[] memory _electors,
+        uint256 _maxVotes,
+        uint256 _electionTime
+    ) {
+        electors = _electors;
+        maxVotes = _maxVotes;
+        electionTime = _electionTime;
+    }
+
+    function vote(uint256 _number) public {
+        require(!isVoted[msg.sender], "You`ve voted already, eblan");
+        require(_number < electors.length, "Elector doesn`t exist");
+        isVoted[msg.sender] = true;
+        votesNumber[_number]++;
+    }
+}

@@ -1,0 +1,50 @@
+2025-07-10 15:32:35.689 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 15:32:37.677 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 15:32:40.929 [info] Getting Manifest... beardedbear.beardedicons
+2025-07-10 15:32:40.930 [info] Getting Manifest... beardedbear.beardedicons
+2025-07-10 15:32:40.930 [info] Getting Manifest... nomicfoundation.hardhat-solidity
+2025-07-10 15:32:40.930 [info] Getting Manifest... pkief.material-icon-theme
+2025-07-10 15:32:40.931 [info] Getting Manifest... nomicfoundation.hardhat-solidity
+2025-07-10 15:32:40.931 [info] Getting Manifest... pkief.material-icon-theme
+2025-07-10 15:32:42.197 [info] Installing extension: beardedbear.beardedicons {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-10 15:32:42.200 [info] Extension is already requested to install beardedbear.beardedicons vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:42.200 [info] Installing extension: nomicfoundation.hardhat-solidity {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-10 15:32:42.200 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-10 15:32:42.201 [info] Extension is already requested to install nomicfoundation.hardhat-solidity vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:42.202 [info] Extension is already requested to install pkief.material-icon-theme vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:43.861 [info] Extension signature verification result for pkief.material-icon-theme: UnhandledException. Internal Code: 6. Executed: true. Duration: 208ms.
+2025-07-10 15:32:43.863 [error] Error while installing the extension pkief.material-icon-theme Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:43.864 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:32:44.105 [info] Extension signature verification result for beardedbear.beardedicons: UnhandledException. Internal Code: 6. Executed: true. Duration: 202ms.
+2025-07-10 15:32:44.106 [error] Error while installing the extension beardedbear.beardedicons Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:44.107 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:32:51.883 [info] Extension signature verification result for nomicfoundation.hardhat-solidity: UnhandledException. Internal Code: 6. Executed: true. Duration: 197ms.
+2025-07-10 15:32:51.885 [error] Error while installing the extension nomicfoundation.hardhat-solidity Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-10 15:32:51.885 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-11 03:51:19.189 [info] Getting Manifest... beardedbear.beardedicons
+2025-07-11 03:51:19.190 [info] Getting Manifest... nomicfoundation.hardhat-solidity
+2025-07-11 03:51:19.191 [info] Getting Manifest... pkief.material-icon-theme
+2025-07-11 03:51:20.448 [info] Installing extension: beardedbear.beardedicons {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 03:51:20.451 [info] Installing extension: nomicfoundation.hardhat-solidity {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 03:51:20.453 [info] Installing extension: pkief.material-icon-theme {"productVersion":{"version":"1.100.2","date":"2025-05-21T09:36:24.436Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json","path":"/home/user/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"}}
+2025-07-11 03:51:21.716 [info] Extension signature verification result for beardedbear.beardedicons: UnhandledException. Internal Code: 6. Executed: true. Duration: 378ms.
+2025-07-11 03:51:21.719 [error] Error while installing the extension beardedbear.beardedicons Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-11 03:51:21.719 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-11 03:51:21.784 [info] Extension signature verification result for pkief.material-icon-theme: UnhandledException. Internal Code: 6. Executed: true. Duration: 268ms.
+2025-07-11 03:51:21.787 [error] Error while installing the extension pkief.material-icon-theme Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-11 03:51:21.787 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-11 03:51:23.922 [info] Extension signature verification result for nomicfoundation.hardhat-solidity: UnhandledException. Internal Code: 6. Executed: true. Duration: 363ms.
+2025-07-11 03:51:23.926 [error] Error while installing the extension nomicfoundation.hardhat-solidity Signature verification failed with 'UnhandledException' error. vscode-userdata:/home/user/.vscode-oss/extensions/extensions.json
+2025-07-11 03:51:23.926 [error] [uncaught exception in sharedProcess]: Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

@@ -1,0 +1,1011 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="efficio-task-tracker" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2mve76lug33mu" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/.gitmodules">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab>{&quot;tabTitle&quot;:&quot;.gitmodules&quot;,&quot;foregroundColor&quot;:-2104859,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="357">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+        <tab>{&quot;tabTitle&quot;:&quot;CMakeLists.txt&quot;,&quot;foregroundColor&quot;:-9392385,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;,&quot;children&quot;:[{&quot;name&quot;:&quot;option&quot;,&quot;attributes&quot;:{&quot;name&quot;:&quot;FOREGROUND&quot;,&quot;value&quot;:&quot;70aeff&quot;}}]},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,68,10,15,105,99,111,110,115,47,67,77,97,107,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,67,77,97,107,101,46,115,118,103,26,18,99,111,109,46,105,110,116,101,108,108,105,106,46,99,108,105,111,110,40,-99,-66,-40,-99,2,48,0]}</tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/tests/test_main.cpp">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="2703">
+              <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+        <tab>{&quot;tabTitle&quot;:&quot;test_main.cpp&quot;,&quot;foregroundColor&quot;:-2104859,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,93,10,23,105,99,111,110,115,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,18,29,105,99,111,110,115,47,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,99,112,112,46,115,118,103,26,22,99,111,109,46,105,110,116,101,108,108,105,106,46,99,105,100,114,46,98,97,115,101,40,-21,-119,-10,-57,-3,-1,-1,-1,-1,1,48,0]}</tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/logs/logs.txt">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="51">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+        <tab>{&quot;tabTitle&quot;:&quot;logs.txt&quot;,&quot;foregroundColor&quot;:-9392385,&quot;textAttributes&quot;:{&quot;name&quot;:&quot;a&quot;,&quot;children&quot;:[{&quot;name&quot;:&quot;option&quot;,&quot;attributes&quot;:{&quot;name&quot;:&quot;FOREGROUND&quot;,&quot;value&quot;:&quot;70aeff&quot;}}]},&quot;icon&quot;:[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,73,10,18,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,116,101,120,116,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-122,-48,-19,-85,-2,-1,-1,-1,-1,1,48,0]}</tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C/C++": {
+      "usageCount": 621,
+      "lastUsed": 1750065488074
+    },
+    "Markdown": {
+      "usageCount": 2,
+      "lastUsed": 1744312807389
+    },
+    "CMakeLists.txt": {
+      "usageCount": 247,
+      "lastUsed": 1750065487865
+    },
+    "C/C++ Header": {
+      "usageCount": 428,
+      "lastUsed": 1750008851295
+    },
+    "TypeScript": {
+      "usageCount": 2,
+      "lastUsed": 1744827032370
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 15,
+      "lastUsed": 1750065488013
+    },
+    "protobuf": {
+      "usageCount": 19,
+      "lastUsed": 1749862805623
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 1,
+      "lastUsed": 1748771804865
+    },
+    "Qt UI file": {
+      "usageCount": 2,
+      "lastUsed": 1749854843366
+    },
+    "textmate": {
+      "usageCount": 3,
+      "lastUsed": 1750065488131
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>error</find>
+      <find />
+      <find>text</find>
+      <find>reg</find>
+      <find>get_serv</find>
+      <find>projects</find>
+      <find>username</find>
+      <find>join</find>
+      <find>expired</find>
+      <find>add_note_w</find>
+      <find>open_not</find>
+      <find>Logger()</find>
+      <find>AUTHENTICATING USER</find>
+      <find>cout</find>
+      <find>std::cout</find>
+      <find>user_reg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>logger</replace>
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/user/git/efficio-task-tracker/client/ui/note-widget/src/member_selection_dialog.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/note-widget/include/note_edit_dialog.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/include/notelist.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/note-widget/src/note_edit_dialog.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/src/notelist.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/authorization-windows/src/registration_window.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/include/notewidget.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/src/notewidget.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/src/mainwindow.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/main-window/include/mainwindow.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/analytics-window/src/analytics_window.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/profile-window/include/profile_window.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/analytics-window/include/analytics_window.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/ui/profile-window/src/profile_window.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/include/logger.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/logger.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/src/logger.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/include/logger.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/proto/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/test_server.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/main.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/src/lr_dao.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/src/auth_service.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/src/update_service.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/main.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/include/auth_requests.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/src/auth_requests.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/src/client_implementation.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/src/update_requests.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/logger.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/include/client_implementation.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/include/common_client_call.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/client/client/include/update_requests.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/include/database_manager.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/include/lr_dao.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/include/note_dao.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/include/project_dao.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/src/note_dao.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/database/src/project_dao.cpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Handlers/include/update_handler.hpp&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/include/auth_service.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/include/common_server_call.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/include/server_implementation.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/server/Service/include/update_service.h&quot;,
+    &quot;/home/user/git/efficio-task-tracker/logs/logs.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/CMakeLists.txt&quot;,
+    &quot;/home/user/git/efficio-task-tracker/tests/test_main.cpp&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C++">
+      <summary usageCount="1049" lastUsage="1750065488074" />
+    </language>
+    <language id="CMake">
+      <summary usageCount="247" lastUsage="1750065487867" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1744312807389" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="15" lastUsage="1750065488013" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="2" lastUsage="1744827032370" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1749854843366" />
+    </language>
+    <language id="protobuf">
+      <summary usageCount="19" lastUsage="1749862805625" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="3" lastUsage="1750065488131" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker/logs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test-server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker/tests}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="test-server" />
+            <item name="test-server" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="efficio-task-tracker" />
+              <item name="dir{file:///home/user/git/efficio-task-tracker}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/build" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/build}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/client" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="client" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/client}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/cmake-build-debug" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="cmake-build-debug" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/cmake-build-debug}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/libpqxx" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="libpqxx" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/libpqxx}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/logs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="logs" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/logs}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/logs/logger.hpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/h.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="logger.hpp" />
+                  <item name="logger.hpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/logs/logs.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="logs.txt" />
+                  <item name="logs.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/proto" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="proto" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/proto}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/server" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="server" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/server}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tests" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="tests" />
+                <item name="dir{file:///home/user/git/efficio-task-tracker/tests}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/googletest" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="googletest" />
+                  <item name="dir{file:///home/user/git/efficio-task-tracker/tests/googletest}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/CMakeLists.txt" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                  <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/tests/test_main.cpp" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/fileTypes/cpp.svg" iconPlugin="com.intellij.cidr.base" isLeaf="true" text="test_main.cpp" />
+                  <item name="test_main.cpp" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.clang-format" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".clang-format" />
+                <item name=".clang-format" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitmodules" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitmodules" />
+                <item name=".gitmodules" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/CMakeLists.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/CMake.svg" iconPlugin="com.intellij.clion" isLeaf="true" text="CMakeLists.txt" />
+                <item name="CMakeLists.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/LICENSE" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="LICENSE" />
+                <item name="LICENSE" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="CMake Application.NoteWidget" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" />
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/fish" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+      <TerminalTabState tabName="Local (3)" />
+    </option>
+    <option name="mySelectedTabIndex" value="1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="278386000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26029783" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Vcpkg" show_stripe_button="false" />
+      <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems View" order="1" weight="0.49440297" />
+      <window_info anchor="bottom" x="208" y="1021" width="2992" height="483" id="Terminal" order="2" weight="0.5914179" />
+      <window_info anchor="bottom" id="Problems" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.5583689" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.49440297" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.50026655" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.3302239" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Python Console" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.33000633" />
+      <window_info anchor="right" id="Meson" order="6" />
+      <unified_weights bottom="0.5914179" left="0.26029783" right="0.33000633" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26029783" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Vcpkg" show_stripe_button="false" />
+      <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems View" order="1" weight="0.40165246" />
+      <window_info active="true" anchor="bottom" x="208" y="1021" width="2992" height="483" id="Terminal" order="2" visible="true" weight="0.3302239" />
+      <window_info anchor="bottom" id="Problems" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.5583689" />
+      <window_info anchor="bottom" id="CMake" order="5" weight="0.3302239" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.50026655" />
+      <window_info anchor="bottom" id="Find" order="7" show_stripe_button="false" weight="0.3302239" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Python Console" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Hierarchy" order="5" weight="0.33000633" />
+      <window_info anchor="right" id="Meson" order="6" />
+      <unified_weights bottom="0.3302239" left="0.26029783" right="0.33000633" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>CMake</value>
+      <value>Problems View</value>
+      <value>Hierarchy</value>
+      <value>Find</value>
+      <value>Debug</value>
+      <value>Services</value>
+      <value>Messages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1215" y="479" key="#Run/Debug_Configuration_Templates.ideScale=125" timestamp="1744412935375">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1215" y="479" key="#Run/Debug_Configuration_Templates.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1744412935375" />
+    <state x="1195" y="419" width="1558" height="1305" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125" timestamp="1747406201323">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1195" y="419" width="1558" height="1305" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1747406201323" />
+    <state x="1036" y="719" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=125" timestamp="1746352674448">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1036" y="719" key="#com.intellij.fileTypes.FileTypeChooser.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1746352674448" />
+    <state x="1071" y="561" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.ideScale=125" timestamp="1750003367871">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1071" y="561" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750003367871" />
+    <state x="1171" y="571" width="848" height="916" key="FileChooserDialogImpl.ideScale=125" timestamp="1746199974947">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1171" y="571" width="848" height="916" key="FileChooserDialogImpl.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1746199974947" />
+    <state width="2992" height="855" key="GridCell.Tab.0.bottom.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.0.bottom.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.0.center.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.0.center.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.0.left.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.0.left.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.0.right.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.0.right.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.1.bottom.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.1.bottom.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.1.center.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.1.center.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.1.left.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.1.left.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state width="2992" height="855" key="GridCell.Tab.1.right.ideScale=125" timestamp="1750001534275">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="2992" height="855" key="GridCell.Tab.1.right.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750001534275" />
+    <state x="1321" y="416" key="RiderGenerateDialog.ideScale=125" timestamp="1747926584198">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1321" y="416" key="RiderGenerateDialog.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1747926584198" />
+    <state x="867" y="341" key="SettingsEditor.ideScale=125" timestamp="1749853529671">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="867" y="341" key="SettingsEditor.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1749853529671" />
+    <state width="1280" height="555" key="ShowBookmarks.ideScale=125" timestamp="1745354685493">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="1280" height="555" key="ShowBookmarks.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1745354685492" />
+    <state x="1071" y="471" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125" timestamp="1744841499683">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1071" y="471" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1744841499683" />
+    <state x="1608" y="97" width="1565" height="1876" key="dock-window-1.ideScale=125" timestamp="1749408072868">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1608" y="97" width="1565" height="1876" key="dock-window-1.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1749408072868" />
+    <state x="923" y="472" key="run.anything.popup.ideScale=125" timestamp="1749855987884">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="923" y="472" key="run.anything.popup.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1749855987884" />
+    <state x="921" y="0" width="1344" height="2623" key="search.everywhere.popup.ideScale=125" timestamp="1750004170435">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="921" y="0" width="1344" height="2623" key="search.everywhere.popup.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1750004170435" />
+    <state x="1140" y="771" width="909" height="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog.ideScale=125" timestamp="1749417077606">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state x="1140" y="771" width="909" height="498" key="vcs.readOnlyHandler.ReadOnlyStatusDialog.ideScale=125/0.0.3200.2000@0.0.3200.2000" timestamp="1749417077606" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/ui/main-window/include/notewidget.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1173">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/main-window/src/notewidget.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="65" column="37" selection-start-line="65" selection-start-column="37" selection-end-line="65" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/analytics-window/include/analytics_window.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/note-widget/include/note_edit_dialog.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/main-window/src/bottombar.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/main-window/include/mainwindow.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/main-window/src/mainwindow.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13362">
+          <caret line="288" column="5" selection-start-line="288" selection-start-column="5" selection-end-line="288" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/note-widget/src/note_edit_dialog.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20859">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/authorization-windows/src/registration_window.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12291">
+          <caret line="245" column="22" selection-start-line="245" selection-start-column="22" selection-end-line="245" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/ui/analytics-window/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="11" column="21" lean-forward="true" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/src/logger.cpp" />
+    <entry file="file://$PROJECT_DIR$/proto/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/CMakeLists.txt" />
+    <entry file="file://$PROJECT_DIR$/server/database/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="19" column="8" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/test_server.cpp" />
+    <entry file="file://$PROJECT_DIR$/server/Service/src/server_implementation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1750000349342" expanded="true" signature="0:66" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239">
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1546">
+          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1285">
+          <caret line="36" column="8" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1336">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/src/auth_requests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-624">
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
+          <folding>
+            <marker date="1750008889321" expanded="true" signature="0:54" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/src/client_implementation.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2907">
+          <caret line="57" column="20" lean-forward="true" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
+          <folding>
+            <marker date="1750008889328" expanded="true" signature="0:209" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/src/update_requests.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <marker date="1750008889328" expanded="true" signature="0:198" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/include/client_implementation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2448">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/include/common_client_call.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/include/update_requests.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5202">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <marker date="1750008889314" expanded="true" signature="14:161" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/client/include/auth_requests.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1750008423374" expanded="true" signature="14:119" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logger.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1750008899581" expanded="true" signature="14:144" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/include/database_manager.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <marker date="1750008671949" expanded="true" signature="14:58" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/include/lr_dao.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1291">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/include/note_dao.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/src/database_manager.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1871">
+          <folding>
+            <marker date="1750000349342" expanded="true" signature="0:52" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/src/lr_dao.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4896">
+          <caret line="96" column="39" selection-start-line="96" selection-start-column="39" selection-end-line="96" selection-end-column="39" />
+          <folding>
+            <marker date="1750004772809" expanded="true" signature="0:179" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/src/update_service.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="342" column="72" lean-forward="true" selection-start-line="342" selection-start-column="72" selection-end-line="342" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/src/note_dao.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2715">
+          <caret line="48" column="19" lean-forward="true" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <marker date="1750012133142" expanded="true" signature="0:101" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/src/project_dao.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="98" column="51" selection-start-line="98" selection-start-column="51" selection-end-line="98" selection-end-column="51" />
+          <folding>
+            <marker date="1750008787348" expanded="true" signature="0:103" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/database/include/project_dao.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3825">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <marker date="1750008893564" expanded="true" signature="14:118" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Handlers/include/update_handler.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1291">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <marker date="1750008803945" expanded="true" signature="14:89" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Handlers/src/update_handler.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3825">
+          <folding>
+            <marker date="1750000349342" expanded="true" signature="0:130" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/include/common_server_call.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/include/auth_service.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4029">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/include/update_service.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7650">
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
+          <folding>
+            <marker date="1750008860271" expanded="true" signature="14:161" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/include/server_implementation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1750008893581" expanded="true" signature="14:94" ph="##include ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/Service/src/auth_service.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1683">
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/logs.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/test_main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2703">
+          <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

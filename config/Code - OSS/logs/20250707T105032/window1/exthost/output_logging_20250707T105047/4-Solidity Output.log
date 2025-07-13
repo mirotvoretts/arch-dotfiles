@@ -1,0 +1,10 @@
+Running 'unset PYTHONPATH && unset PYTHONHOME && unset PYTHONSTARTUP && export PYTHONNOUSERSITE=1 && . "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/bin/activate" && wake lsp --port 35967'
+[Error - 10:23:15 PM] Traceback (most recent call last):
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/server.py", line 495, in _task_done_callback
+    task.result()
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/lsp_compiler.py", line 2284, in __run_printers
+    command, data = await self.wait_subprocess_response(
+  File "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/lib/python3.10/site-packages/wake/lsp/lsp_compiler.py", line 493, in wait_subprocess_response
+    raise RuntimeError("Subprocess has terminated unexpectedly")
+RuntimeError: Subprocess has terminated unexpectedly
+

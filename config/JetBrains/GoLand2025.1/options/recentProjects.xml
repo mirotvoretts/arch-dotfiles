@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/git/vk_test_task">
+          <value>
+            <RecentProjectMetaInfo frameTitle="main.go" projectWorkspaceId="2wsE60Tm3CjeWXZHlqVNoykneUx">
+              <option name="activationTimestamp" value="1746969749018" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-251.23774.430" />
+              <option name="buildTimestamp" value="1744640100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="17" y="85" width="3156" height="1888" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1746821701971" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/GolandProjects/homeProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="homeProject – main.go" opened="true" projectWorkspaceId="2vxOmXTiGiV5bafSxHpkk6hV4Tq">
+              <option name="activationTimestamp" value="1748107450414" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-251.23774.430" />
+              <option name="buildTimestamp" value="1744640100000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="1608" y="85" width="1565" height="1888" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1746969749668" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/GolandProjects/homeProject" />
+    <option name="lastProjectLocation" value="$USER_HOME$/GolandProjects" />
+  </component>
+</application>

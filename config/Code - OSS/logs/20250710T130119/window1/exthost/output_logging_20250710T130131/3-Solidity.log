@@ -1,0 +1,35 @@
+[Info  - 1:01:32 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 1:01:32 PM] env: production
+[Info  - 1:01:32 PM] Client starting
+[Info  - 1:01:34 PM] Language server starting
+[Info  - 1:01:34 PM]   Release: hardhat-solidity@0.8.18
+[Info  - 1:01:34 PM]   Environment: production
+[Info  - 1:01:34 PM]   Telemetry Enabled: false
+[Info  - 1:01:34 PM]   Telemetry Tracking Id: someValue....
+[Info  - 1:01:34 PM]   Workspace Folders:
+[Info  - 1:01:34 PM]     blockchain-hackathon (file:///home/user/git/blockchain-hackathon)
+[Info  - 1:01:34 PM] Fetching latest solidity versions
+[Info  - 1:01:34 PM] Language server ready
+[Info  - 1:01:34 PM] [indexing] Found projects:
+[Info  - 1:01:34 PM] [indexing] -  Type: Hardhat
+[Info  - 1:01:34 PM] [indexing]    Base path: /home/user/git/blockchain-hackathon
+[Info  - 1:01:34 PM] [indexing]    Config file: /home/user/git/blockchain-hackathon/hardhat.config.js
+[Info  - 1:01:34 PM] [indexing] -  Type: Foundry
+[Info  - 1:01:34 PM] [indexing]    Base path: /home/user/git/blockchain-hackathon
+[Info  - 1:01:34 PM] [indexing]    Config file: /home/user/git/blockchain-hackathon/foundry.toml
+[Info  - 1:01:34 PM] [indexing] Initializing /home/user/git/blockchain-hackathon/hardhat.config.js
+[dotenv@17.1.0] injecting env (3) from .env (tip: 🔐 encrypt with dotenvx: https://dotenvx.com)
+[Info  - 1:01:35 PM] [blockchain-hackathon] Local HRE loaded
+[Info  - 1:01:35 PM] [indexing] Done /home/user/git/blockchain-hackathon/hardhat.config.js
+[Info  - 1:01:35 PM] [indexing] Initializing /home/user/git/blockchain-hackathon/foundry.toml
+[Info  - 1:01:36 PM] [indexing] Done /home/user/git/blockchain-hackathon/foundry.toml
+[Info  - 1:01:36 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 1:01:36 PM] [indexing] Scan complete, 245 sol files found
+[Info  - 1:01:36 PM] [indexing] Analyzing 6 solidity files
+[Info  - 1:01:38 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 1:01:38 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 1:01:38 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 1:01:45 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 1:01:45 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 1:01:45 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Error - 1:14:33 PM] Server process exited with code 0.

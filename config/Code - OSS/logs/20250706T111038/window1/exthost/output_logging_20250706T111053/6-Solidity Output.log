@@ -1,0 +1,1 @@
+Running 'unset PYTHONPATH && unset PYTHONHOME && unset PYTHONSTARTUP && export PYTHONNOUSERSITE=1 && . "/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda/bin/activate" && wake lsp --port 44299'

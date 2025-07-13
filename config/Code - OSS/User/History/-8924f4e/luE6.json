@@ -1,0 +1,46 @@
+{
+  "language": "Solidity",
+  "sources": {
+    "contracts/MyNFTCollection.sol": {
+      "content": "// SPDX-License-Identifier: MIT\npragma solidity ^0.8.28;\n\nimport {ERC721} from \"@openzeppelin/contracts/token/ERC721/ERC721.sol\";\nimport {Ownable} from \"@openzeppelin/contracts/access/Ownable.sol\";\n\ncontract MyNFTCollection is ERC721, Ownable {\n    error InvalidAmount();\n    error ExceedsMaxSupply();\n    error IncorrectETHValue();\n    error ExceedsWalletLimit();\n    error TransferFailed();\n    error ZeroAddress();\n    \n    uint256 private _nextTokenId;\n    uint256 public constant MAX_SUPPLY = 100;\n    uint256 public constant MINT_PRICE = 0.001 ether;\n    uint256 public constant MAX_PER_TX = 3;\n    uint256 public constant MAX_PER_WALLET = 6;\n\n    mapping(address => uint256) public mintCount;\n\n    constructor(address initialOwner)\n        ERC721(\"UrsaPixels\", \"URPX\")\n        Ownable(initialOwner)\n    {}\n\n    function _baseURI() internal pure override returns (string memory) {\n        return \"ipfs://bafybeiaxgymouylj3cln37payudjatwxejz4wziawdighnrpujahaerlya/\";\n    }\n\n    function validateMint(uint256 amount, address recipient) internal {\n        if (amount == 0 || amount > MAX_PER_TX) revert InvalidAmount();\n        if (mintCount[recipient] + amount > MAX_PER_WALLET) revert ExceedsWalletLimit();\n        if (_nextTokenId + amount > MAX_SUPPLY) revert ExceedsMaxSupply();\n        if (msg.value != amount * MINT_PRICE) revert IncorrectETHValue();\n    }\n\n    function mint(uint256 amount, address recipient) external payable {\n        validateMint(amount, recipient);\n        mintCount[recipient] += amount;\n        for (uint256 i = 0; i < amount; i++) {\n            _safeMint(recipient, _nextTokenId++);\n        }\n    }\n\n    function withdraw(uint256 amount, address payable recipient) external onlyOwner {\n        require(0 < amount && amount <= address(this).balance, InvalidAmount());\n        require(recipient != address(0), ZeroAddress());\n        (bool success, ) = recipient.call{value: amount}(\"\");\n        require(success, TransferFailed());\n    }\n\n    function totalSupply() external view returns (uint256) {\n        return _nextTokenId;\n    }\n}"
+    },
+    "@openzeppelin/contracts/token/ERC721/ERC721.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/token/ERC721/ERC721.sol"]
+    },
+    "@openzeppelin/contracts/access/Ownable.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/access/Ownable.sol"]
+    },
+    "@openzeppelin/contracts/utils/Context.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/utils/Context.sol"]
+    },
+    "@openzeppelin/contracts/token/ERC721/IERC721.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/token/ERC721/IERC721.sol"]
+    },
+    "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/token/ERC721/extensions/IERC721Metadata.sol"]
+    },
+    "@openzeppelin/contracts/utils/introspection/IERC165.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/utils/introspection/IERC165.sol"]
+    },
+    "@openzeppelin/contracts/utils/introspection/ERC165.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/utils/introspection/ERC165.sol"]
+    },
+    "@openzeppelin/contracts/interfaces/draft-IERC6093.sol": {
+      "urls": ["https://raw.githubusercontent.com/OpenZeppelin/openzeppelin-contracts/v5.0.0/contracts/interfaces/draft-IERC6093.sol"]
+    }
+  },
+  "settings": {
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    },
+    "viaIR": false,
+    "evmVersion": "paris",
+    "outputSelection": {
+      "*": {
+        "*": ["metadata", "evm.bytecode", "evm.deployedBytecode", "abi"]
+      }
+    },
+    "libraries": {}
+  }
+}

@@ -1,0 +1,26 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# Установка зависимостей
+RUN apt-get update && apt-get install -y curl && \
+    curl -fsSL https://deb.nodesource.com/setup_18.x | bash - && \
+    apt-get install -y nodejs && \
+    npm install -g hardhat
+
+# Копируем только самое необходимое
+COPY requirements.txt .
+COPY main.py .
+COPY contracts/ ./contracts/
+COPY hardhat.config.js .
+
+# Установка Python и Node.js зависимостей
+RUN pip install --no-cache-dir -r requirements.txt && \
+    cd contracts && npm install @nomicfoundation/hardhat-toolbox
+
+# Компиляция контрактов
+RUN npx hardhat compile
+
+EXPOSE 8000 8545
+
+CMD sh -c "npx hardhat node & python -m uvicorn main:app --host 0.0.0.0 --port 8000"

@@ -1,0 +1,23 @@
+FROM node:18 as base
+
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    python3-venv \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+COPY package*.json hardhat.config.js ./
+RUN npm install -g hardhat && npm install
+
+COPY backend/requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+RUN npx hardhat compile
+
+EXPOSE 8000 8545 3000
+
+CMD ["sh", "-c", "echo 'Запуск всех сервисов...' && (npx hardhat node &) && (python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 &) && tail -f /dev/null"]

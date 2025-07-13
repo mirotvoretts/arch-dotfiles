@@ -1,7 +1,7 @@
 configuration{
     modi: "run,drun,window";
     lines: 5;
-    font: "JetBrainsMono Nerd Font 14";
+    font: "JetBrainsMono Nerd Font 22";
     show-icons: true;
     icon-theme: "Papirus-dark";
     terminal: "alacritty";
@@ -24,7 +24,8 @@ element-text, element-icon , mode-switcher {
 }
 
 window {
-    height: 360px;
+	width: 1024px;
+    height: 640px;
     border: 3px;
     border-color: @border-col;
     background-color: @bg-col;
@@ -77,7 +78,7 @@ element {
 }
 
 element-icon {
-    size: 25px;
+    size: 40px;
 }
 
 element selected {

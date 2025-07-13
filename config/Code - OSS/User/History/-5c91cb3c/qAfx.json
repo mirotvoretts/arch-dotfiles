@@ -1,0 +1,40 @@
+{
+	"workbench.colorTheme": "Bearded Theme Monokai Metallian",
+	"editor.fontSize": 16,
+	"files.autoSave": "afterDelay",
+	"terminal.integrated.fontSize": 18,
+	"scm.inputFontSize": 18,
+	"screencastMode.fontSize": 60,
+	"debug.console.fontSize": 118,
+	"chat.editor.fontSize": 18,
+	"markdown.preview.fontSize": 18,
+	"solidity.telemetry": true,
+	"workbench.iconTheme": "bearded-icons",
+	"window.zoomLevel": 1,
+	"workbench.productIconTheme": "fluent-icons",
+	"symbols.hidesExplorerArrows": false,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.formatOnPaste": true,
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"prettier.useTabs": true,
+	"prettier.semi": false,
+	"prettier.jsxSingleQuote": true,
+	"prettier.singleQuote": true,
+	"prettier.arrowParens": "avoid",
+	"editor.minimap.renderCharacters": false,
+	"editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+	"editor.unicodeHighlight.ambiguousCharacters": false,
+	"explorer.confirmDelete": false,
+	"explorer.confirmDragAndDrop": false,
+	"editor.tabSize": 2, // размер таба 
+	"editor.formatOnSave": true, // форматировать код при сохранении
+	"explorer.compactFolders": false, // компактные папки
+	"editor.smoothScrolling": true, // плавный скролл
+	"workbench.list.smoothScrolling": true, // плавный скролл 
+	"terminal.integrated.smoothScrolling": true, // плавный скролл в терминале
+	"terminal.integrated.cursorBlinking": true,  // мигающей курсор
+	"editor.glyphMargin": false,
+	"editor.linkedEditing": true,
+	"editor.padding.top": 15, // отступ сверху кода
+}

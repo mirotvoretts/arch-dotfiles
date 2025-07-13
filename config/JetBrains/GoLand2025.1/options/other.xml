@@ -1,0 +1,70 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="go" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Inter" />
+    <option name="fontSize" value="20.0" />
+    <option name="ideScale" value="1.25" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="overrideLafFonts" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "LayoutCode.codeCleanup": "true",
+    "LayoutCode.optimizeImports": "true",
+    "Markdown Split EditorLayout": "Editor only",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NextRunPlatformUpdateBuild": "GO-251.25410.140",
+    "NextRunPlatformUpdateSelfBuild": "GO-251.23774.430",
+    "NextRunPlatformUpdateVersion": "2025.1.1",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.go.enabled.exportability.sorter": "true",
+    "RunOnceActivity.go.init.cfg.2": "true",
+    "RunOnceActivity.go.init.cfg.line.markers": "true",
+    "RunOnceActivity.go.optimizeImportsByDefault": "true",
+    "RunOnceActivity.go.tips.were.enabled.once": "true",
+    "RunOnceActivity.terminal.shell.command.handling.was.disabled.once": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.251": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "251.23774.430",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "25.0",
+    "fontSizeToResetEditor": "25.0",
+    "go.first.run.time": "1745083417959",
+    "gotit.previous.run": "GO-251.23774.430",
+    "input.method.disabler.muted": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "1",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "GO-251.23774.430",
+    "settings.code.style.selected.tab.go": "Tabs and Indents",
+    "terminal.gen.one.option.visible": "true",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/user/git/vk_test_task"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.goide.execution.testing.frameworks.gofuzz.corpus.GoFuzzCorpusFileTypeDetector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;tipsOrderSeed&quot;: 1745767297652
+}</component>
+</application>

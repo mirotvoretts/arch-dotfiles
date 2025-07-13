@@ -1,0 +1,37 @@
+2025-07-10 13:01:20.380 [info] Started local extension host with pid 4146.
+2025-07-10 13:01:20.396 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 13:01:20.632 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 13:01:23.020 [info] [perf] Render performance baseline is 13ms
+2025-07-10 13:01:23.719 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 13:01:27.979 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 13:01:31.228 [info] Started local extension host with pid 4386.
+2025-07-10 13:01:31.272 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 13:01:31.489 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 13:01:32.397 [error] Unable to write to User Settings because python.venvFolders is not a registered configuration.
+2025-07-10 13:01:33.916 [info] [perf] Render performance baseline is 30ms
+2025-07-10 13:01:34.134 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 13:01:35.891 [error] [Extension Host] Failed to read shared state
+2025-07-10 13:01:36.983 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 13:01:42.205 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 13:14:33.947 [info] Started local extension host with pid 6015.
+2025-07-10 13:14:33.967 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 13:14:34.222 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 13:14:36.627 [info] [perf] Render performance baseline is 16ms
+2025-07-10 13:14:37.230 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 13:14:41.093 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 13:14:43.653 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 13:14:49.715 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:24:39.574 [error] Unable to write to User Settings because python.venvFolders is not a registered configuration.
+2025-07-10 15:24:40.710 [error] [Extension Host] Failed to read shared state

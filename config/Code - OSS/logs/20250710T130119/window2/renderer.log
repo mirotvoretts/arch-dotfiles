@@ -1,0 +1,24 @@
+2025-07-10 15:30:11.035 [info] Started local extension host with pid 26179.
+2025-07-10 15:30:11.095 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 15:30:11.326 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 15:30:13.699 [info] [perf] Render performance baseline is 18ms
+2025-07-10 15:30:14.222 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 15:30:18.612 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:30:21.152 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:30:23.016 [info] Started local extension host with pid 26251.
+2025-07-10 15:30:23.050 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 15:30:23.302 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 15:30:24.159 [error] Unable to write to User Settings because python.venvFolders is not a registered configuration.
+2025-07-10 15:30:25.405 [error] [Extension Host] Failed to read shared state
+2025-07-10 15:30:25.676 [info] [perf] Render performance baseline is 15ms
+2025-07-10 15:30:25.859 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 15:30:28.329 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:30:34.538 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

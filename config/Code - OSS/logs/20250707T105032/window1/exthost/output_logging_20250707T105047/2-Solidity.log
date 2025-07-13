@@ -1,0 +1,202 @@
+[Info  - 10:50:50 AM] Solidity by Nomic Foundation Starting ...
+[Info  - 10:50:50 AM] env: production
+[Info  - 10:50:50 AM] Client starting
+[Info  - 10:50:50 AM] Language server starting
+[Info  - 10:50:50 AM]   Release: hardhat-solidity@0.8.18
+[Info  - 10:50:50 AM]   Environment: production
+[Info  - 10:50:50 AM]   Telemetry Enabled: false
+[Info  - 10:50:50 AM]   Telemetry Tracking Id: someValue....
+[Info  - 10:50:50 AM]   Workspace Folders:
+[Info  - 10:50:50 AM]     blockchain-hackathon (file:///home/user/git/blockchain-hackathon)
+[Info  - 10:50:50 AM] Fetching latest solidity versions
+[Info  - 10:50:51 AM] Language server ready
+[Info  - 10:50:51 AM] [indexing] Found projects:
+[Info  - 10:50:51 AM] [indexing] -  Type: Hardhat
+[Info  - 10:50:51 AM] [indexing]    Base path: /home/user/git/blockchain-hackathon
+[Info  - 10:50:51 AM] [indexing]    Config file: /home/user/git/blockchain-hackathon/hardhat.config.js
+[Info  - 10:50:51 AM] [indexing] Initializing /home/user/git/blockchain-hackathon/hardhat.config.js
+[Info  - 10:50:51 AM] [blockchain-hackathon] Local HRE loaded
+[Info  - 10:50:51 AM] [indexing] Done /home/user/git/blockchain-hackathon/hardhat.config.js
+[Info  - 10:50:51 AM] [indexing] Scanning workspace folders for sol files
+[Info  - 10:50:51 AM] [indexing] Scan complete, 6 sol files found
+[Info  - 10:50:51 AM] [indexing] Analyzing 1 solidity files
+[Info  - 10:53:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:55 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:58 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:58 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:58 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:59 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:59 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:53:59 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:33 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:33 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:49 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:49 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:58:49 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:59:59 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:00 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:00 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:00 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:01 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:01 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:01 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:01 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:01 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:03 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:03 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:03 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:03 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:04 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:04 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:04 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:04 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:05 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:05 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:00:05 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:02:57 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:02:57 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:05:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:05:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^'.
+[Info  - 11:06:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^'.
+[Info  - 11:06:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.'.
+[Info  - 11:06:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.'.
+[Info  - 11:06:44 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.'.
+[Info  - 11:06:44 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:44 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:45 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:45 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:45 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:46 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:46 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:47 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:47 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:47 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:48 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:48 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:49 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:49 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:50 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:50 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:50 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:06:53 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:30 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:30 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:35 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:36 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:36 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:36 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:36 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:37 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:37 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:37 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:37 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:38 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:38 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:38 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:09:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:07 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:07 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:08 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:08 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:08 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:08 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:08 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:09 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:09 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:09 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:19 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:19 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:19 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:21 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:21 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:10:21 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:41 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:42 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:43 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:50 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:50 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:51 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:52 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:53 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:53 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:53 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:11:55 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:02 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:39 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:54 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:58 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:12:58 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:14:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:14:40 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:20:27 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:20:27 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:21:55 AM] [blockchain-hackathon] Config file changed. Restarting worker process.
+[Info  - 11:21:55 AM] [blockchain-hackathon] Child process exited: null
+[Info  - 11:21:55 AM] [blockchain-hackathon] Local HRE loaded
+[Info  - 11:21:57 AM] [blockchain-hackathon] Config file changed. Restarting worker process.
+[Info  - 11:21:57 AM] [blockchain-hackathon] Child process exited: null
+[Info  - 11:21:57 AM] [blockchain-hackathon] Local HRE loaded
+[Info  - 11:21:59 AM] [blockchain-hackathon] Config file changed. Restarting worker process.
+[Info  - 11:21:59 AM] [blockchain-hackathon] Child process exited: null
+[Info  - 11:21:59 AM] [blockchain-hackathon] Local HRE loaded
+[Info  - 11:24:56 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:24:56 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:27:56 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:27:56 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:36:16 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:36:16 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:36:18 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:36:18 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:36:19 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:42:55 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:42:55 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:42:56 AM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:23:14 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 10:23:14 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Error - 10:23:15 PM] Server process exited with code 0.

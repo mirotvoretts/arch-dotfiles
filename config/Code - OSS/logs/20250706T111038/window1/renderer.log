@@ -1,0 +1,88 @@
+2025-07-06 11:10:39.946 [info] Started local extension host with pid 3276.
+2025-07-06 11:10:39.981 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 11:10:40.143 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-06 11:10:42.685 [info] [perf] Render performance baseline is 15ms
+2025-07-06 11:10:43.540 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 11:10:48.716 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 11:10:52.796 [info] Started local extension host with pid 3580.
+2025-07-06 11:10:52.821 [info] ComputeTargetPlatform: linux-x64
+2025-07-06 11:10:52.964 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-06 11:10:55.548 [info] [perf] Render performance baseline is 26ms
+2025-07-06 11:10:55.584 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 11:10:58.286 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 11:18:42.954 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 17:18:56.485 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /home/user/node_modules)
+2025-07-06 17:18:56.485 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/util/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/util/package.json')
+2025-07-06 17:18:56.485 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/inherits/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/inherits/package.json')
+2025-07-06 17:18:56.485 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/path/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/path/package.json')
+2025-07-06 17:18:56.486 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/buffer/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/buffer/package.json')
+2025-07-06 17:18:56.486 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/pinata/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/pinata/package.json')
+2025-07-06 17:18:56.870 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/util/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/util/package.json')
+2025-07-06 17:18:56.870 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/path/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/path/package.json')
+2025-07-06 17:18:56.870 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/buffer/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/buffer/package.json')
+2025-07-06 17:18:56.871 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/inherits/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/inherits/package.json')
+2025-07-06 17:18:56.871 [error] [File Watcher (node.js)] Failed to watch /home/user/node_modules/pinata/package.json for changes using fs.watch() (Error: ENOENT: no such file or directory, watch '/home/user/node_modules/pinata/package.json')
+2025-07-06 17:19:06.974 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-07-06 17:52:29.858 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 17:52:32.819 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 17:52:42.745 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 17:53:51.680 [error] SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 17:53:51.689 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 17:54:52.703 [error] Unable to write to User Settings because python.venvFolders is not a registered configuration.
+2025-07-06 17:55:16.775 [error] [Extension Host] Failed to read shared state
+2025-07-06 18:33:11.416 [error] [Extension Host] Failed to encode input with error: Input state is invalid
+2025-07-06 18:41:03.940 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Gf.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:29043)
+    at Gf.updateChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:28950)
+    at Wne.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2092:33670)
+    at E.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at x1e.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:680:2727)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1308:11769
+    at Array.map (<anonymous>)
+    at ju.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1308:11760)
+2025-07-06 18:45:00.110 [error] TreeError [DebugRepl] Tree input not set: Error: TreeError [DebugRepl] Tree input not set
+    at Gf.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:29043)
+    at Gf.updateChildren (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:417:28950)
+    at Wne.value (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2092:33670)
+    at E.B (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2392)
+    at E.C (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2462)
+    at E.fire (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:29:2680)
+    at x1e.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:680:2727)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1308:11769
+    at Array.map (<anonymous>)
+    at ju.setVisible (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1308:11760)
+2025-07-06 18:47:07.515 [error] Error: Unable to read file 'vscode://file/home/user/git/js/contracts/HelloWorld.sol:5:10' (EntryNotFound)
+    at Apt.G (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:65455)
+    at Apt.F (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3235:65280)
+    at async Kpt.L (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3236:9345)
+    at async Kpt.readStream (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3236:9120)
+    at async Lwe.Eb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1825:12310)
+    at async Lwe.resolve (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1825:10785)
+    at async zpt.W (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3236:5991)
+    at async kHe.jb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:679:21266)
+    at async wSe.setInput (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2163:118987)
+    at async JHe.S (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:685:19756)
+2025-07-06 22:50:41.339 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 22:50:41.481 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-06 22:50:45.222 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-06 22:50:50.642 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)

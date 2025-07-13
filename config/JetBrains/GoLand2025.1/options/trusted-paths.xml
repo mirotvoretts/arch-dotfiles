@@ -1,0 +1,15 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/CLionProjects/home_project" value="true" />
+        <entry key="$USER_HOME$/GolandProjects/homeProject" value="true" />
+        <entry key="$USER_HOME$/git/efficio-task-tracker" value="true" />
+        <entry key="$USER_HOME$/git/exercises" value="true" />
+        <entry key="$USER_HOME$/git/labs-mirotvoretts/lab09-bmp" value="true" />
+        <entry key="$USER_HOME$/git/labs-mirotvoretts/lab09-bmp/solution" value="true" />
+        <entry key="$USER_HOME$/git/vk_test_task" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

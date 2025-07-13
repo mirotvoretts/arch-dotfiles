@@ -1,0 +1,39 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.0.center.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.0.right.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.0.bottom.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.1.left.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.1.center.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.1.right.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.1.bottom.0.0.3200.2000@192dpi" width="2992" height="855" />
+    <size key="GridCell.Tab.2.left.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.2.center.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.2.right.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.2.bottom.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.3.left.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.3.center.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.3.right.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="GridCell.Tab.3.bottom.0.0.3200.2000@192dpi" width="2992" height="536" />
+    <size key="CreateCMakeListWizard.topPanel.0.0.3200.2000@192dpi" width="1280" height="952" />
+    <size key="CreateCMakeListWizard.bottomPanel.0.0.3200.2000@192dpi" width="1280" height="408" />
+  </component>
+  <component name="WindowManager">
+    <frame x="1608" y="97" width="1565" height="1876" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state width="1280" height="408" key="CreateCMakeListWizard.bottomPanel.ideScale=125" timestamp="1744911140900">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="1280" height="408" key="CreateCMakeListWizard.bottomPanel.ideScale=125/0.0.3200.2000" timestamp="1744911140900" />
+    <state width="1280" height="952" key="CreateCMakeListWizard.topPanel.ideScale=125" timestamp="1744911140900">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="1280" height="952" key="CreateCMakeListWizard.topPanel.ideScale=125/0.0.3200.2000" timestamp="1744911140900" />
+    <state width="691" height="647" key="ShowUsagesActions.dimensionServiceKey.ideScale=125" timestamp="1750003880865">
+      <screen x="0" y="0" width="3200" height="2000" />
+    </state>
+    <state width="691" height="647" key="ShowUsagesActions.dimensionServiceKey.ideScale=125/0.0.3200.2000" timestamp="1750003880865" />
+  </component>
+</application>

@@ -1,0 +1,33 @@
+[Info  - 11:15:50 PM] Solidity by Nomic Foundation Starting ...
+[Info  - 11:15:50 PM] env: production
+[Info  - 11:15:50 PM] Client starting
+[Info  - 11:15:51 PM] Language server starting
+[Info  - 11:15:51 PM]   Release: hardhat-solidity@0.8.18
+[Info  - 11:15:51 PM]   Environment: production
+[Info  - 11:15:51 PM]   Telemetry Enabled: false
+[Info  - 11:15:51 PM]   Telemetry Tracking Id: someValue....
+[Info  - 11:15:51 PM]   Workspace Folders:
+[Info  - 11:15:51 PM]     my_nft_collection (file:///home/user/git/my_nft_collection)
+[Info  - 11:15:51 PM] Fetching latest solidity versions
+[Info  - 11:15:52 PM] Language server ready
+[Info  - 11:15:52 PM] [indexing] Found projects:
+[Info  - 11:15:52 PM] [indexing] -  Type: Hardhat
+[Info  - 11:15:52 PM] [indexing]    Base path: /home/user/git/my_nft_collection/lib/openzeppelin-contracts
+[Info  - 11:15:52 PM] [indexing]    Config file: /home/user/git/my_nft_collection/lib/openzeppelin-contracts/hardhat.config.js
+[Info  - 11:15:52 PM] [indexing] -  Type: Foundry
+[Info  - 11:15:52 PM] [indexing]    Base path: /home/user/git/my_nft_collection
+[Info  - 11:15:52 PM] [indexing]    Config file: /home/user/git/my_nft_collection/foundry.toml
+[Info  - 11:15:52 PM] [indexing] Initializing /home/user/git/my_nft_collection/lib/openzeppelin-contracts/hardhat.config.js
+[Info  - 11:15:52 PM] [openzeppelin-contracts] Error loading HRE: Error: Cannot find module 'hardhat'
+Require stack:
+- /home/user/.vscode-oss/extensions/nomicfoundation.hardhat-solidity-0.8.18-universal/server/out/worker/WorkerProcess.js
+[Info  - 11:15:52 PM] [openzeppelin-contracts] Child process exited: 1
+[Info  - 11:15:52 PM] [indexing] Done /home/user/git/my_nft_collection/lib/openzeppelin-contracts/hardhat.config.js
+[Info  - 11:15:52 PM] [indexing] Initializing /home/user/git/my_nft_collection/foundry.toml
+[Info  - 11:15:52 PM] [indexing] Done /home/user/git/my_nft_collection/foundry.toml
+[Info  - 11:15:52 PM] [indexing] Scanning workspace folders for sol files
+[Info  - 11:15:52 PM] [indexing] Scan complete, 425 sol files found
+[Info  - 11:15:52 PM] [indexing] Analyzing 1 solidity files
+[Info  - 11:15:53 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:15:53 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.
+[Info  - 11:15:53 PM] No Slang-supported version (latest: 0.8.26) for Solidity found that satisfies the pragma directives: '^0.8.28'.

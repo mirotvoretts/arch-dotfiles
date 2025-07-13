@@ -1,0 +1,44 @@
+2025-07-10 15:30:11.625 [info] [main] Log level: Info
+2025-07-10 15:30:11.625 [info] [main] Validating found git in: "git"
+2025-07-10 15:30:11.625 [info] [main] Using git "2.49.0" from "git"
+2025-07-10 15:30:11.625 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-10 15:30:11.625 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-10 15:30:24.654 [info] [main] Log level: Info
+2025-07-10 15:30:24.654 [info] [main] Validating found git in: "git"
+2025-07-10 15:30:24.654 [info] [main] Using git "2.49.0" from "git"
+2025-07-10 15:30:24.654 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-10 15:30:24.654 [info] > git rev-parse --show-toplevel [5ms]
+2025-07-10 15:30:24.670 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-10 15:30:24.680 [info] [Model][openRepository] Opened repository (path): /home/user/git/blockchain-hackathon
+2025-07-10 15:30:24.680 [info] [Model][openRepository] Opened repository (real path): /home/user/git/blockchain-hackathon
+2025-07-10 15:30:24.713 [info] > git config --get commit.template [15ms]
+2025-07-10 15:30:24.719 [info] > git rev-parse --show-toplevel [8ms]
+2025-07-10 15:30:24.757 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feature/blockchain-core refs/remotes/feature/blockchain-core [17ms]
+2025-07-10 15:30:24.758 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-10 15:30:24.787 [info] > git status -z -uall [19ms]
+2025-07-10 15:30:24.787 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [10ms]
+2025-07-10 15:30:24.817 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feature/blockchain-core refs/remotes/feature/blockchain-core [15ms]
+2025-07-10 15:30:24.827 [info] > git rev-parse --show-toplevel [41ms]
+2025-07-10 15:30:24.847 [info] > git config --get --local branch.feature/blockchain-core.vscode-merge-base [21ms]
+2025-07-10 15:30:24.858 [info] > git config --get commit.template [41ms]
+2025-07-10 15:30:24.863 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/feature/blockchain-core refs/remotes/origin/feature/blockchain-core [5ms]
+2025-07-10 15:30:24.874 [info] > git rev-parse --show-toplevel [36ms]
+2025-07-10 15:30:24.919 [info] > git rev-parse --show-toplevel [24ms]
+2025-07-10 15:30:24.919 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/feature/blockchain-core refs/remotes/feature/blockchain-core [34ms]
+2025-07-10 15:30:24.919 [info] > git merge-base refs/heads/feature/blockchain-core refs/remotes/origin/feature/blockchain-core [46ms]
+2025-07-10 15:30:24.939 [info] > git diff --name-status -z --diff-filter=ADMR 37a77723d017349b32bc42e5291a648d293717dc...refs/remotes/origin/feature/blockchain-core [10ms]
+2025-07-10 15:30:24.941 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-10 15:30:24.971 [info] > git status -z -uall [11ms]
+2025-07-10 15:30:24.972 [info] > git rev-parse --show-toplevel [22ms]
+2025-07-10 15:30:24.983 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2025-07-10 15:30:24.986 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-10 15:30:24.999 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-10 15:30:25.012 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-10 15:30:25.022 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-10 15:30:25.022 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-10 15:30:25.357 [info] > git check-ignore -v -z --stdin [9ms]
+2025-07-10 15:30:25.383 [info] > git show --textconv :contracts/CharityCampaign.sol [10ms]
+2025-07-10 15:30:25.389 [info] > git ls-files --stage -- contracts/CharityCampaign.sol [7ms]
+2025-07-10 15:30:25.400 [info] > git cat-file -s 819d6af258ae2a4e19b274560d4b568638af53a2 [3ms]
+2025-07-10 15:30:25.421 [info] > git blame --root --incremental 37a77723d017349b32bc42e5291a648d293717dc -- contracts/CharityCampaign.sol [2ms]
+2025-07-10 15:30:25.484 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/user/git/blockchain-hackathon/tests/lib/forge-std". Error:Error: ENOENT: no such file or directory, realpath '/home/user/git/blockchain-hackathon/tests/lib/forge-std'

@@ -1,0 +1,22 @@
+[INFO] Solidity Analyzer extension activated
+[INFO] Starting analysis of current or last active Solidity file
+[INFO] No active Solidity editor, looking for Solidity documents
+[INFO] Found Solidity document: /home/user/git/js/contracts/HelloWorld.sol
+[INFO] Preparing to analyze file: /home/user/git/js/contracts/HelloWorld.sol
+[INFO] Analyzing Solidity document: /home/user/git/js/contracts/HelloWorld.sol
+[INFO] Sending 1 files to API for analysis: contracts/HelloWorld.sol
+[ERROR] API request failed with status: 500 Internal Server Error
+[ERROR] Failed to analyze Solidity code: API Request error: Internal Server Error
+Error: API Request error: Internal Server Error
+	at t.SolidityAnalyzer.analyzeCode (/home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:45850)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async t.SolidityAnalyzer.analyzeSolidityDocument (/home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:44579)
+	at async /home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:36060
+	at async Wb.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:41516)
+[ERROR] Error analyzing current file: Failed to analyze Solidity code: Error: API Request error: Internal Server Error
+Error: Failed to analyze Solidity code: Error: API Request error: Internal Server Error
+	at t.SolidityAnalyzer.analyzeCode (/home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:46876)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async t.SolidityAnalyzer.analyzeSolidityDocument (/home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:44579)
+	at async /home/user/.vscode-oss/extensions/iard-solutions.iards-solidity-analyzer-0.3.0-universal/dist/extension.js:1:36060
+	at async Wb.h (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:119:41516)

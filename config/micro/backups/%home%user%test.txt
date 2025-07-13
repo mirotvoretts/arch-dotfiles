@@ -1,0 +1,13 @@
+error OnlyOwnerAllowed();
+ error ElectorDoesNotExist(uint256 _chosenElector, uint256 _totalElectors);
+ error ElectionIsFinished();
+ error MultiVotingIsNotAllowed();
+
+ function vote(uint256 _number) public {
+     require(block.timestamp < finishTime, ElectionIsFinished());
+     require(msg.sender != owner, OnlyOwnerAllowed());
+     require(!isVoted[msg.sender], MultiVotingIsNotAllowed());
+     require(_number < electors.length, ElectorDoesNotExist(_number, electors.length));
+     isVoted[msg.sender] = true;
+     votesNumber[_number]++;
+ }

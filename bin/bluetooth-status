@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Проверяем статус Bluetooth
+power_status=$(bluetoothctl show | grep -q "Powered: yes" && echo "on" || echo "off")
+
+# Проверяем подключенные устройства
+if [ "$power_status" == "on" ]; then
+    connected_device=$(bluetoothctl info | awk '/Connected:/ {if ($2 == "yes") print "connected"}')
+    device_name=$(bluetoothctl info | awk '/Name:/ {print $2}')
+    
+    if [ "$connected_device" == "connected" ] && [ -n "$device_name" ]; then
+        echo "%{F#81A1C1} $device_name%{F-}"
+    else
+        echo "%{F#81A1C1}%{F-}"
+    fi
+else
+    echo "%{F#666666}%{F-}"
+fi

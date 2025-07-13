@@ -1,0 +1,56 @@
+#!/bin/bash
+
+bluetoothctl scan off &>/dev/null
+sleep 0.5
+
+# Включаем сканирование и ждём активации
+bluetoothctl scan on &>/dev/null
+local timeout=0
+
+# Bluetooth Menu (Simplified)
+show_menu() {
+    # Автоматическое обнаружение устройств
+    DEVICES=$(bluetoothctl devices | while read -r _ mac name; do
+        connected=$(bluetoothctl info "$mac" | grep "Connected: yes")
+        if [ -n "$connected" ]; then
+            echo " $name"
+        else
+            echo " $name"
+        fi
+    done)
+
+    if bluetoothctl show | grep -q "Powered: yes"; then
+        chosen=$(echo -e "󰂲 Выключить Bluetooth\n$DEVICES" | rofi -dmenu -i -p "Устройства:")
+    else
+        chosen=$(echo -e "󰂯 Включить Bluetooth" | rofi -dmenu -i -p "Bluetooth:")
+    fi
+
+    case $chosen in
+        "󰂲 Выключить Bluetooth")
+            bluetoothctl power off
+            notify-send "Bluetooth" "Адаптер выключен"
+            ;;
+        "󰂯 Включить Bluetooth")
+            bluetoothctl power on
+            notify-send "Bluetooth" "Адаптер включен"
+            show_menu
+            ;;
+        *)
+            if [[ -n $chosen ]]; then
+                device_mac=$(bluetoothctl devices | grep "${chosen:4}" | awk '{print $2}')
+                if [[ $chosen =~ "Connected" ]]; then
+                    bluetoothctl disconnect "$device_mac"
+                    notify-send "Bluetooth" "Отключено от ${chosen:4}"
+                else
+                    bluetoothctl connect "$device_mac"
+                    notify-send "Bluetooth" "Подключение к ${chosen:4}..."
+                fi
+                sleep 2
+                show_menu
+            fi
+            ;;
+    esac
+}
+
+show_menu
+

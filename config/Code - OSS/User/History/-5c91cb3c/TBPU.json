@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Dracula Dark+",
+    "editor.fontSize": 16,
+    "files.autoSave": "afterDelay",
+    "terminal.integrated.fontSize": 18,
+    "scm.inputFontSize": 18,
+    "screencastMode.fontSize": 60,
+    "debug.console.fontSize": 118,
+    "chat.editor.fontSize": 18,
+    "markdown.preview.fontSize": 18,
+    "solidity.telemetry": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 1
+}

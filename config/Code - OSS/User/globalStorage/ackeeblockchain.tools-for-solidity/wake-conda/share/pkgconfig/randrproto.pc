@@ -1,0 +1,7 @@
+prefix=/home/user/.config/Code - OSS/User/globalStorage/ackeeblockchain.tools-for-solidity/wake-conda
+includedir=${prefix}/include
+ 
+Name: RandrProto
+Description: Randr extension headers
+Version: 1.6.0
+Cflags: -I${includedir}

@@ -1,0 +1,107 @@
+2025-07-05 23:15:50.747 [info] [main] Log level: Info
+2025-07-05 23:15:50.747 [info] [main] Validating found git in: "git"
+2025-07-05 23:15:50.747 [info] [main] Using git "2.49.0" from "git"
+2025-07-05 23:15:50.747 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-05 23:15:50.763 [info] > git rev-parse --show-toplevel [5ms]
+2025-07-05 23:15:50.781 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2025-07-05 23:15:50.793 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection
+2025-07-05 23:15:50.793 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection
+2025-07-05 23:15:50.827 [info] > git rev-parse --show-toplevel [6ms]
+2025-07-05 23:15:50.828 [info] > git config --get commit.template [20ms]
+2025-07-05 23:15:50.856 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-05 23:15:50.856 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-07-05 23:15:50.872 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-05 23:15:50.912 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-05 23:15:50.912 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [14ms]
+2025-07-05 23:15:50.925 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-05 23:15:50.937 [info] > git status -z -uall [52ms]
+2025-07-05 23:15:50.968 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-07-05 23:15:50.980 [info] > git rev-parse --show-toplevel [45ms]
+2025-07-05 23:15:50.995 [info] > git config --get --local branch.main.vscode-merge-base [16ms]
+2025-07-05 23:15:51.007 [info] > git config --get commit.template [39ms]
+2025-07-05 23:15:51.010 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [4ms]
+2025-07-05 23:15:51.022 [info] > git rev-parse --show-toplevel [28ms]
+2025-07-05 23:15:51.081 [info] > git rev-parse --show-toplevel [35ms]
+2025-07-05 23:15:51.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [46ms]
+2025-07-05 23:15:51.081 [info] > git merge-base refs/heads/main refs/remotes/origin/main [60ms]
+2025-07-05 23:15:51.107 [info] > git diff --name-status -z --diff-filter=ADMR 4cbe05a314444e038d264dfbc2ce58a802d79070...refs/remotes/origin/main [14ms]
+2025-07-05 23:15:51.110 [info] > git rev-parse --show-toplevel [4ms]
+2025-07-05 23:15:51.111 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-05 23:15:51.139 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-05 23:15:51.149 [info] > git status -z -uall [25ms]
+2025-07-05 23:15:51.385 [info] > git check-ignore -v -z --stdin [1ms]
+2025-07-05 23:15:51.483 [info] > git show --textconv :src/MyNFTCollection.sol [12ms]
+2025-07-05 23:15:51.485 [info] > git ls-files --stage -- src/MyNFTCollection.sol [2ms]
+2025-07-05 23:15:51.499 [info] > git cat-file -s 1e9b547cd5e18bbdf0a729fd63228e26b14f4d63 [3ms]
+2025-07-05 23:15:51.563 [info] > git blame --root --incremental 4cbe05a314444e038d264dfbc2ce58a802d79070 -- src/MyNFTCollection.sol [15ms]
+2025-07-05 23:15:51.664 [info] > git rev-parse --show-toplevel [2ms]
+2025-07-05 23:15:51.679 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-07-05 23:15:51.684 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection/lib/forge-std
+2025-07-05 23:15:51.684 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection/lib/forge-std
+2025-07-05 23:15:51.711 [info] > git rev-parse --show-toplevel [3ms]
+2025-07-05 23:15:51.712 [info] > git config --get commit.template [15ms]
+2025-07-05 23:15:51.737 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2025-07-05 23:15:51.742 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts
+2025-07-05 23:15:51.742 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts
+2025-07-05 23:15:51.755 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [19ms]
+2025-07-05 23:15:51.781 [info] > git status -z -uall [15ms]
+2025-07-05 23:15:51.781 [info] > git config --get commit.template [27ms]
+2025-07-05 23:15:51.786 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [9ms]
+2025-07-05 23:15:51.822 [info] > git config --get commit.template [3ms]
+2025-07-05 23:15:51.822 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [18ms]
+2025-07-05 23:15:51.862 [info] > git status -z -uall [26ms]
+2025-07-05 23:15:51.863 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [15ms]
+2025-07-05 23:15:51.881 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [19ms]
+2025-07-05 23:15:51.918 [info] > git status -z -uall [27ms]
+2025-07-05 23:15:51.919 [info] > git config --get commit.template [39ms]
+2025-07-05 23:15:51.919 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2025-07-05 23:15:51.935 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [3ms]
+2025-07-05 23:15:51.958 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-05 23:15:51.960 [info] > git status -z -uall [16ms]
+2025-07-05 23:15:52.293 [info] > git check-ignore -v -z --stdin [2ms]
+2025-07-05 23:15:52.472 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-05 23:15:52.481 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2025-07-05 23:15:52.484 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/forge-std
+2025-07-05 23:15:52.484 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/forge-std
+2025-07-05 23:15:52.500 [info] > git rev-parse --show-toplevel [1ms]
+2025-07-05 23:15:52.501 [info] > git config --get commit.template [9ms]
+2025-07-05 23:15:52.522 [info] > git rev-parse --git-dir --git-common-dir [12ms]
+2025-07-05 23:15:52.526 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/erc4626-tests
+2025-07-05 23:15:52.526 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/erc4626-tests
+2025-07-05 23:15:52.550 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [30ms]
+2025-07-05 23:15:52.576 [info] > git status -z -uall [14ms]
+2025-07-05 23:15:52.577 [info] > git rev-parse --show-toplevel [28ms]
+2025-07-05 23:15:52.577 [info] > git config --get commit.template [39ms]
+2025-07-05 23:15:52.591 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [17ms]
+2025-07-05 23:15:52.621 [info] > git rev-parse --git-dir --git-common-dir [31ms]
+2025-07-05 23:15:52.626 [info] [Model][openRepository] Opened repository (path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/halmos-cheatcodes
+2025-07-05 23:15:52.626 [info] [Model][openRepository] Opened repository (real path): /home/user/git/my_nft_collection/lib/openzeppelin-contracts/lib/halmos-cheatcodes
+2025-07-05 23:15:52.643 [info] > git config --get commit.template [23ms]
+2025-07-05 23:15:52.643 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [36ms]
+2025-07-05 23:15:52.670 [info] > git status -z -uall [15ms]
+2025-07-05 23:15:52.670 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [3ms]
+2025-07-05 23:15:52.673 [info] > git config --get commit.template [33ms]
+2025-07-05 23:15:52.709 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [21ms]
+2025-07-05 23:15:52.733 [info] > git status -z -uall [12ms]
+2025-07-05 23:15:52.733 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [25ms]
+2025-07-05 23:15:52.753 [info] > git config --get commit.template [56ms]
+2025-07-05 23:15:52.763 [info] > git status -z -uall [20ms]
+2025-07-05 23:15:52.764 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [33ms]
+2025-07-05 23:15:52.767 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [5ms]
+2025-07-05 23:15:52.786 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [33ms]
+2025-07-05 23:15:52.799 [info] > git status -z -uall [22ms]
+2025-07-05 23:15:52.799 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [13ms]
+2025-07-05 23:15:52.802 [info] > git config --get commit.template [4ms]
+2025-07-05 23:15:52.814 [info] > git for-each-ref --format %(refname)%00%(objectname)%00%(*objectname) refs/tags [2ms]
+2025-07-05 23:15:52.834 [info] > git status -z -uall [10ms]
+2025-07-05 23:15:52.835 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [1ms]
+2025-07-05 23:15:53.037 [info] > git check-ignore -v -z --stdin [2ms]
+2025-07-06 01:33:58.349 [info] [main] Log level: Info
+2025-07-06 01:33:58.349 [info] [main] Validating found git in: "git"
+2025-07-06 01:33:58.349 [info] [main] Using git "2.49.0" from "git"
+2025-07-06 01:33:58.349 [info] [Model][doInitialScan] Initial repository scan started
+2025-07-06 01:33:58.349 [info] > git rev-parse --show-toplevel [8ms]
+2025-07-06 01:33:58.349 [info] fatal: not a git repository (or any of the parent directories): .git
+2025-07-06 01:33:58.349 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-07-06 01:33:58.580 [info] > git rev-parse --show-toplevel [12ms]
+2025-07-06 01:33:58.580 [info] fatal: not a git repository (or any of the parent directories): .git

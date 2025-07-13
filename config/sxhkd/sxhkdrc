@@ -28,18 +28,19 @@ super + {d,x}
     {rofi -show drun,sh $HOME/bin/powermenu}
 
 # Launch Applications
-super + shift + {f,n,p,t,c,v,i,x,q,k,l}
-	{firefox, \
+super + shift + {f,n,p,t,c,o,i,x,q,k,l,g}
+	{chromium, \
 	thunar, \
 	pavucontrol, \
-	telegram-desktop, \
-	code, \
-	virtualbox, \
-	firefox --private-window, \
+	Telegram, \
+	clion, \
+	obsidian, \
+	chromium --private-window, \
 	sh $HOME/bin/xcolor-pick, \
 	sh $HOME/bin/bible, \
 	alacritty -e calcurse, \
-	sh $HOME/bin/screen-lock}
+	sh $HOME/bin/screen-lock, \
+	goland.sh}
      
 # Select window to close
 ctrl + super + alt + k
@@ -75,7 +76,6 @@ super + c
 super + space
 	bspc node -t "~"{floating,tiled}
 
-
 #
 # state/flags
 #
@@ -101,6 +101,10 @@ super + {grave,Tab}
 # send focus window to current desktop
 super + {_,shift + }{1-9,0}
 	bspc {desktop -f,node -d} '^{1-9,10}'
+
+# change desktop
+super + {Left,Right}
+    bspc desktop -f {prev,next}.local
 
 #
 # preselect
@@ -142,3 +146,25 @@ super + ctrl + {m,x,y,z}
 # swap the current node and the biggest window
 super + g
 	bspc node -s biggest.window
+
+# Копировать
+# ctrl + {c, Cyrillic_u}
+#     xdotool key ctrl+c
+# 
+# # Вставить
+# ctrl + {v, Cyrillic_el}
+#     xdotool key ctrl+v
+# 
+# # Вырезать
+# ctrl + {x, Cyrillic_che}
+#     xdotool key ctrl+x
+# 
+# # Выделить всё
+# ctrl + {a, Cyrillic_ef}
+#     xdotool key ctrl+a
+# 
+# ctrl + {z, Cyrillic_ef}
+#     xdotool key ctrl+z
+# 
+# ctrl + {q, Cyrillic_ef}
+#     xdotool key ctrl+q

@@ -1,0 +1,25 @@
+2025-07-10 15:32:35.261 [info] Started local extension host with pid 2690.
+2025-07-10 15:32:35.355 [info] ComputeTargetPlatform: linux-x64
+2025-07-10 15:32:35.842 [error] Ignoring vscode-ethover.hover.getBalance.showErrors as vscode-ethover.hover.getBalance is "yes-ask"
+2025-07-10 15:32:37.542 [error] Unable to write to User Settings because python.venvFolders is not a registered configuration.
+2025-07-10 15:32:37.934 [info] [perf] Render performance baseline is 20ms
+2025-07-10 15:32:39.065 [info] Auto updating outdated extensions. beardedbear.beardedicons, nomicfoundation.hardhat-solidity, pkief.material-icon-theme
+2025-07-10 15:32:40.793 [error] [Extension Host] Failed to read shared state
+2025-07-10 15:32:43.864 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:32:51.887 [error] Signature verification failed with 'UnhandledException' error.: SignatureVerificationInternal: Signature verification failed with 'UnhandledException' error.
+    at yh.xb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:64415)
+    at async yh.wb (file:///usr/lib/code/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:74:62886)
+2025-07-10 15:34:00.649 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 15:43:50.131 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 16:55:51.041 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 16:55:51.047 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 16:55:52.241 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 17:04:17.477 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 21:09:19.725 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 21:09:24.580 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 21:26:42.400 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-10 21:28:08.401 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-11 00:01:29.408 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
+2025-07-11 00:01:30.606 [error] [Extension Host] Got error: getaddrinfo ENOTFOUND api-goerli.etherscan.io
