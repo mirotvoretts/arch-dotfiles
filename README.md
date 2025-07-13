@@ -20,7 +20,6 @@
 <!-- FEATURES -->
 ## Features
 * Customizing software on the system.
-* Support for over 300 dynamic wallpapers.
 * Lots of handy scripts in bin/.
 * Convenient custom configuration of Firefox.
 * All hotkeys are honed for maximum productivity.
