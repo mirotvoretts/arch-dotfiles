@@ -1,20 +1,7 @@
-<h1 align="center"> :herb: ZProger Build :herb: </h1>
-
-<!-- BADGES -->
-</br>
-
-<p align="center">
-  <img src="https://img.shields.io/github/issues/zproger/bspwm-dotfiles?style=for-the-badge">
-  </br>
-  <img src="https://img.shields.io/github/languages/count/zproger/bspwm-dotfiles?style=for-the-badge">
-  <img src="https://img.shields.io/github/repo-size/Zproger/bspwm-dotfiles?style=for-the-badge">
-  </br>
-</p>
+<h1 align="center"> My ArchLinux Build </h1>
 
 <!-- INFORMATION -->
-<h1 align="left"> :blue_book: About</h1> 
-
-<img src="demonstration/1.png" alt="rice" align="right" width="500px">
+## About
 
 </br>
 
@@ -30,19 +17,8 @@
 </br>
 
 
-<!-- IMAGES -->
-## 🖼️ Gallery
-![gallery](demonstration/1.png)
-![gallery](demonstration/2.png)
-![gallery](demonstration/3.png)
-![gallery](demonstration/4.png)
-![gallery](demonstration/5.png)
-![gallery](demonstration/6.png)
-![gallery](demonstration/7.png)
-
-
 <!-- FEATURES -->
-## 🚀 Features
+## Features
 * Customizing software on the system.
 * Support for over 300 dynamic wallpapers.
 * Lots of handy scripts in bin/.
@@ -61,7 +37,7 @@
    </tr>
    <tr>
       <td align="center">
-        THIS CONFIGURATION IS DESIGNED FOR 1920X1080 MONITORS,
+        THIS CONFIGURATION IS DESIGNED FOR 3200X2000 MONITORS,
         SOME FUNCTIONALITY OF THE SHELL MAY NOT WORK AS IT SHOULD.
         IN THIS CASE YOU NEED TO MAKE ADJUSTMENTS MANUALLY.
         IF YOU FIND ERRORS IN THE SHELL, PLEASE REPORT THE PROBLEM.
@@ -70,12 +46,12 @@
 
 
 <!-- INSTALLATION -->
-## :blue_book: Installation
+## Installation
 A guide to installing the system and graphical shell via builder: [EN](Docs/01_installing_arch_linux_with_bspwm_english.md), [RU](Docs/00_installing_arch_linux_with_bspwm_russian.md). 
 
 
 <!-- ERRORS -->
-## :moyai: Post-installation fixes
+## Post-installation fixes
 Complete instructions for corrections: https://youtu.be/9zewiGf7j-A
 * **The brightness of the screen is not displayed on the bar**. This error is due to the fact that the Builder was unable to automatically install drivers for the video card or processor. You need to go to [Arch Wiki](https://wiki.archlinux.org/) and do the installation manually.
 * **The battery is not displayed on the bar**. You need to open `~/bin/battery-alert` and change the `battery` variable to your battery value. Then go to `~/.config/polybar/modules.ini` and edit the `[module/battery]` module according to the polybar instructions to match your `battery` and `adapter` data.
@@ -86,7 +62,7 @@ Complete instructions for corrections: https://youtu.be/9zewiGf7j-A
 
 
 <!-- HOTKEYS -->
-## 💻 HotKeys
+## HotKeys
 * **Open the terminal** - `super + enter`
 * **Set a random wallpaper** - `super + w`
 * **Switch the layout** - `shift + alt`
@@ -105,7 +81,3 @@ Complete instructions for corrections: https://youtu.be/9zewiGf7j-A
 * **Switch the window to floating mode** - `super + space`
 
 The other hotkeys are in `~/.config/sxhkd/sxhkdrc`.
-
-#
-
-The project is actively developing, so you can offer your ideas for improvements and visit our [YouTube channel](https://youtube.com/@zproger) and [Telegram](https://t.me/codeblog8). Go to the `Projects` tab to keep track of current shell updates and future improvements.
